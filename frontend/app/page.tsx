@@ -62,8 +62,8 @@ export default async function Home() {
           />
           <StatCard
             title="Top Rank"
-            value={topRanked[0]?.institute.split(' ')[0] || 'N/A'}
-            subtitle={topRanked[0] ? `Rank ${topRanked[0].latestRank}` : ''}
+            value={topRanked.length > 0 ? topRanked[0].institute.split(' ')[0] : 'N/A'}
+            subtitle={topRanked.length > 0 ? `Rank ${topRanked[0].latestRank}` : 'Loading...'}
             icon={Trophy}
             color="green"
           />
