@@ -1,65 +1,128 @@
-import Image from "next/image";
+import { loadCollegeData } from '@/lib/dataLoader';
+import { calculateDashboardStats, groupByInstitute, calculateCollegeStats } from '@/lib/dataUtils';
+import StatCard from '@/components/StatCard';
+import { Trophy, TrendingUp, TrendingDown, Activity, Database } from 'lucide-react';
+import SearchBar from '@/components/SearchBar';
+import CollegeCard from '@/components/CollegeCard';
+import { CollegeStats } from '@/lib/types';
 
-export default function Home() {
+export default async function Home() {
+  const data = await loadCollegeData();
+  const dashboardStats = calculateDashboardStats(data);
+  
+  const grouped = groupByInstitute(data);
+  const allColleges: CollegeStats[] = [];
+  grouped.forEach((yearlyData, name) => {
+    allColleges.push(calculateCollegeStats(name, yearlyData));
+  });
+  
+  const topRanked = [...allColleges]
+    .sort((a, b) => a.latestRank - b.latestRank)
+    .slice(0, 10);
+
   return (
-    <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
+    <div className="min-h-screen">
+      {/* Hero Section */}
+      <div className="bg-gradient-to-b from-primary/5 to-background border-b border-border">
+        <div className="container mx-auto px-4 py-16">
+          <div className="max-w-4xl mx-auto text-center">
+            <h1 className="text-5xl font-bold text-foreground mb-4">
+              Explore Indian College Rankings
+            </h1>
+            <p className="text-xl text-muted-foreground mb-8">
+              Comprehensive analytics and insights from NIRF rankings across {dashboardStats.yearsRange[1] - dashboardStats.yearsRange[0] + 1} years
+            </p>
+            <div className="max-w-2xl mx-auto">
+              <SearchBar colleges={allColleges} placeholder="Search for colleges..." />
+            </div>
+          </div>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+      </div>
+
+      <div className="container mx-auto px-4 py-12">
+        {/* Stats Grid */}
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
+          <StatCard
+            title="Total Colleges"
+            value={dashboardStats.totalColleges}
+            icon={Database}
+            color="primary"
+          />
+          <StatCard
+            title="Data Points"
+            value={dashboardStats.totalDataPoints}
+            icon={Activity}
+            color="secondary"
+          />
+          <StatCard
+            title="Years Covered"
+            value={`${dashboardStats.yearsRange[0]} - ${dashboardStats.yearsRange[1]}`}
+            icon={Trophy}
+            color="accent"
+          />
+          <StatCard
+            title="Top Rank"
+            value={topRanked[0]?.institute.split(' ')[0] || 'N/A'}
+            subtitle={topRanked[0] ? `Rank ${topRanked[0].latestRank}` : ''}
+            icon={Trophy}
+            color="green"
+          />
         </div>
-      </main>
+
+        {/* Top Ranked Colleges */}
+        <section className="mb-12">
+          <div className="flex items-center justify-between mb-6">
+            <h2 className="text-3xl font-bold text-foreground">Top Ranked Colleges</h2>
+          </div>
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
+            {topRanked.map((college, index) => (
+              <CollegeCard key={college.institute} college={college} rank={index + 1} />
+            ))}
+          </div>
+        </section>
+
+        {/* Three Column Layout */}
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
+          {/* Top Movers */}
+          <section>
+            <div className="flex items-center gap-2 mb-6">
+              <TrendingUp className="h-6 w-6 text-accent-green" />
+              <h2 className="text-2xl font-bold text-foreground">Top Movers</h2>
+            </div>
+            <div className="space-y-3">
+              {dashboardStats.topMovers.slice(0, 5).map((college) => (
+                <CollegeCard key={college.institute} college={college} />
+              ))}
+            </div>
+          </section>
+
+          {/* Most Stable */}
+          <section>
+            <div className="flex items-center gap-2 mb-6">
+              <Activity className="h-6 w-6 text-accent-blue" />
+              <h2 className="text-2xl font-bold text-foreground">Most Stable</h2>
+            </div>
+            <div className="space-y-3">
+              {dashboardStats.mostStable.slice(0, 5).map((college) => (
+                <CollegeCard key={college.institute} college={college} />
+              ))}
+            </div>
+          </section>
+
+          {/* Declining */}
+          <section>
+            <div className="flex items-center gap-2 mb-6">
+              <TrendingDown className="h-6 w-6 text-accent-red" />
+              <h2 className="text-2xl font-bold text-foreground">Needs Attention</h2>
+            </div>
+            <div className="space-y-3">
+              {dashboardStats.bottomMovers.slice(0, 5).map((college) => (
+                <CollegeCard key={college.institute} college={college} />
+              ))}
+            </div>
+          </section>
+        </div>
+      </div>
     </div>
   );
 }
