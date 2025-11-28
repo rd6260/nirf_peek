@@ -1,0 +1,901 @@
+year,institute_original,institute_norm,rank,score,perception,institute,rank_prev,score_prev,rank_change,score_change,volatility,perception_gap
+2018,Alagappa University,alagappa university,43.0,48.25,24.5,Alagappa University,,,,,8.82,23.75
+2019,Alagappa University,alagappa university,47.0,48.54,26.65,Alagappa University,43.0,48.25,-4.0,0.29,8.82,21.89
+2020,Alagappa University,alagappa university,57.0,46.79,23.34,Alagappa University,47.0,48.54,-10.0,-1.75,8.82,23.45
+2021,Alagappa University,alagappa university,57.0,46.79,23.34,Alagappa University,57.0,46.79,0.0,0.0,8.82,23.45
+2022,Alagappa University,alagappa university,53.0,49.73,18.45,Alagappa University,57.0,46.79,4.0,2.94,8.82,31.28
+2023,Alagappa University,alagappa university,56.0,50.99,15.54,Alagappa University,53.0,49.73,-3.0,1.26,8.82,35.45
+2025,Alagappa University,alagappa university,73.0,52.27,27.2,Alagappa University,56.0,50.99,-17.0,1.28,8.82,25.07
+2017,Aligarh Muslim University,aligarh muslim university,19.0,52.74,16.62,Aligarh Muslim University,,,,,0.7,36.12
+2018,Aligarh Muslim University,aligarh muslim university,17.0,57.78,26.3,Aligarh Muslim University,19.0,52.74,2.0,5.04,0.7,31.48
+2019,Aligarh Muslim University,aligarh muslim university,18.0,58.36,18.46,Aligarh Muslim University,17.0,57.78,-1.0,0.58,0.7,39.9
+2020,Aligarh Muslim University,aligarh muslim university,18.0,57.38,27.0,Aligarh Muslim University,18.0,58.36,0.0,-0.98,0.7,30.38
+2021,Aligarh Muslim University,aligarh muslim university,18.0,57.38,27.0,Aligarh Muslim University,18.0,57.38,0.0,0.0,0.7,30.38
+2022,Aligarh Muslim University,aligarh muslim university,19.0,59.86,27.85,Aligarh Muslim University,18.0,57.38,-1.0,2.48,0.7,32.01
+2023,Aligarh Muslim University,aligarh muslim university,19.0,62.27,26.4,Aligarh Muslim University,19.0,59.86,0.0,2.41,0.7,35.87
+2025,Aligarh Muslim University,aligarh muslim university,19.0,63.76,26.77,Aligarh Muslim University,19.0,62.27,0.0,1.49,0.7,36.99
+2022,"All India Institute of Medical Sciences, Delhi",all india institute of medical sciences delhi,9.0,69.57,75.15,"All India Institute of Medical Sciences, Delhi",,,,,1.25,-5.58
+2023,"All India Institute of Medical Sciences, Delhi",all india institute of medical sciences delhi,6.0,72.14,75.23,"All India Institute of Medical Sciences, Delhi",9.0,69.57,3.0,2.57,1.25,-3.09
+2025,"All India Institute of Medical Sciences, Delhi",all india institute of medical sciences delhi,8.0,70.57,75.4,"All India Institute of Medical Sciences, Delhi",6.0,72.14,-2.0,-1.57,1.25,-4.83
+2023,"All India Institute of Medical Sciences, Rishikesh",all india institute of medical sciences rishikesh,86.0,47.89,9.48,"All India Institute of Medical Sciences, Rishikesh",,,,,0.0,38.41
+2025,All India Institute of Medical Sciences Bhubaneswar,all india institute of medical sciences bhubaneswar,100.0,49.04,20.28,All India Institute of Medical Sciences Bhubaneswar,,,,,0.0,28.76
+2022,All India Institute of Medical Sciences Jodhpur,all india institute of medical sciences jodhpur,86.0,45.81,4.3,All India Institute of Medical Sciences Jodhpur,,,,,0.0,41.51
+2025,All India Institute of Medical Sciences Rishikesh,all india institute of medical sciences rishikesh,78.0,51.77,14.36,All India Institute of Medical Sciences Rishikesh,,,,,0.0,37.41
+2017,AMITY University,amity university,86.0,39.17,18.06,AMITY University,,,,,19.63,21.11
+2018,Amity University,amity university,80.0,42.99,5.4,Amity University,86.0,39.17,6.0,3.82,19.63,37.59
+2019,Amity University,amity university,84.0,43.53,7.22,Amity University,80.0,42.99,-4.0,0.54,19.63,36.31
+2020,Amity University,amity university,43.0,48.87,12.18,Amity University,84.0,43.53,41.0,5.34,19.63,36.69
+2021,Amity University,amity university,43.0,48.87,12.18,Amity University,43.0,48.87,0.0,0.0,19.63,36.69
+2022,Amity University,amity university,42.0,51.07,13.43,Amity University,43.0,48.87,1.0,2.2,19.63,37.64
+2023,Amity University,amity university,57.0,50.88,16.65,Amity University,42.0,51.07,-15.0,-0.19,19.63,34.23
+2025,Amity University,amity university,37.0,57.49,7.11,Amity University,57.0,50.88,20.0,6.61,19.63,50.38
+2017,Amrita Vishwa Vidyapeetham,amrita vishwa vidyapeetham,16.0,54.7,26.12,Amrita Vishwa Vidyapeetham,,,,,1.71,28.58
+2018,Amrita Vishwa Vidyapeetham,amrita vishwa vidyapeetham,15.0,58.46,31.44,Amrita Vishwa Vidyapeetham,16.0,54.7,1.0,3.76,1.71,27.02
+2019,Amrita Vishwa Vidyapeetham,amrita vishwa vidyapeetham,15.0,59.22,31.01,Amrita Vishwa Vidyapeetham,15.0,58.46,0.0,0.76,1.71,28.21
+2020,Amrita Vishwa Vidyapeetham,amrita vishwa vidyapeetham,12.0,59.87,34.8,Amrita Vishwa Vidyapeetham,15.0,59.22,3.0,0.65,1.71,25.07
+2021,Amrita Vishwa Vidyapeetham,amrita vishwa vidyapeetham,12.0,59.87,34.8,Amrita Vishwa Vidyapeetham,12.0,59.87,0.0,0.0,1.71,25.07
+2022,Amrita Vishwa Vidyapeetham,amrita vishwa vidyapeetham,16.0,61.54,38.09,Amrita Vishwa Vidyapeetham,12.0,59.87,-4.0,1.67,1.71,23.45
+2023,Amrita Vishwa Vidyapeetham,amrita vishwa vidyapeetham,15.0,62.74,35.71,Amrita Vishwa Vidyapeetham,16.0,61.54,1.0,1.2,1.71,27.03
+2025,Amrita Vishwa Vidyapeetham,amrita vishwa vidyapeetham,17.0,64.97,30.67,Amrita Vishwa Vidyapeetham,15.0,62.74,-2.0,2.23,1.71,34.3
+2017,Anand Agricultural University,anand agricultural university,62.0,42.26,2.75,Anand Agricultural University,,,,,17.0,39.51
+2019,Anand Agricultural University,anand agricultural university,96.0,41.2,7.22,Anand Agricultural University,62.0,42.26,-34.0,-1.06,17.0,33.98
+2017,Andhra University,andhra university,69.0,41.38,20.72,Andhra University,,,,,17.44,20.66
+2018,Andhra University,andhra university,36.0,50.39,9.53,Andhra University,69.0,41.38,33.0,9.01,17.44,40.86
+2019,Andhra University,andhra university,29.0,52.11,14.55,Andhra University,36.0,50.39,7.0,1.72,17.44,37.56
+2020,"Andhra University, Visakhapatnam",andhra university visakhapatnam,48.0,48.65,18.37,"Andhra University, Visakhapatnam",,,,,13.96,30.28
+2021,"Andhra University, Visakhapatnam",andhra university visakhapatnam,48.0,48.65,18.37,"Andhra University, Visakhapatnam",48.0,48.65,0.0,0.0,13.96,30.28
+2022,"Andhra University, Visakhapatnam",andhra university visakhapatnam,71.0,47.97,15.04,"Andhra University, Visakhapatnam",48.0,48.65,-23.0,-0.68,13.96,32.93
+2023,"Andhra University, Visakhapatnam",andhra university visakhapatnam,76.0,48.54,16.92,"Andhra University, Visakhapatnam",71.0,47.97,-5.0,0.57,13.96,31.62
+2025,"Andhra University, Visakhapatnam",andhra university visakhapatnam,41.0,56.62,14.07,"Andhra University, Visakhapatnam",76.0,48.54,35.0,8.08,13.96,42.55
+2017,Anna University,anna university,13.0,56.5,43.94,Anna University,,,,,6.34,12.56
+2018,Anna University,anna university,10.0,62.82,63.22,Anna University,13.0,56.5,3.0,6.32,6.34,-0.4
+2019,Anna University,anna university,14.0,60.35,62.72,Anna University,10.0,62.82,-4.0,-2.47,6.34,-2.37
+2020,Anna University,anna university,25.0,54.42,61.72,Anna University,14.0,60.35,-11.0,-5.93,6.34,-7.3
+2021,Anna University,anna university,25.0,54.42,61.72,Anna University,25.0,54.42,0.0,0.0,6.34,-7.3
+2022,Anna University,anna university,22.0,58.08,62.1,Anna University,25.0,54.42,3.0,3.66,6.34,-4.02
+2023,Anna University,anna university,18.0,62.36,62.67,Anna University,22.0,58.08,4.0,4.28,6.34,-0.31
+2025,Anna University,anna university,29.0,60.06,61.18,Anna University,18.0,62.36,-11.0,-2.3,6.34,-1.12
+2017,Annamalai University,annamalai university,92.0,38.59,3.67,Annamalai University,,,,,0.0,34.92
+2022,Babasheb Bhimrao Ambedkar University,babasheb bhimrao ambedkar university,78.0,46.39,4.8,Babasheb Bhimrao Ambedkar University,,,,,4.24,41.59
+2023,Babasheb Bhimrao Ambedkar University,babasheb bhimrao ambedkar university,69.0,49.53,2.0,Babasheb Bhimrao Ambedkar University,78.0,46.39,9.0,3.14,4.24,47.53
+2025,Babasheb Bhimrao Ambedkar University,babasheb bhimrao ambedkar university,69.0,52.71,5.35,Babasheb Bhimrao Ambedkar University,69.0,49.53,0.0,3.18,4.24,47.36
+2017,Banaras Hindu University,banaras hindu university,10.0,58.92,44.01,Banaras Hindu University,,,,,0.6,14.91
+2018,Banaras Hindu University,banaras hindu university,9.0,63.52,43.62,Banaras Hindu University,10.0,58.92,1.0,4.6,0.6,19.9
+2019,Banaras Hindu University,banaras hindu university,10.0,64.55,47.28,Banaras Hindu University,9.0,63.52,-1.0,1.03,0.6,17.27
+2020,Banaras Hindu University,banaras hindu university,10.0,63.1,49.38,Banaras Hindu University,10.0,64.55,0.0,-1.45,0.6,13.72
+2021,Banaras Hindu University,banaras hindu university,10.0,63.1,49.38,Banaras Hindu University,10.0,63.1,0.0,0.0,0.6,13.72
+2022,Banaras Hindu University,banaras hindu university,11.0,64.81,53.95,Banaras Hindu University,10.0,63.1,-1.0,1.71,0.6,10.86
+2023,Banaras Hindu University,banaras hindu university,11.0,67.21,45.43,Banaras Hindu University,11.0,64.81,0.0,2.4,0.6,21.78
+2025,Banaras Hindu University,banaras hindu university,10.0,68.71,47.63,Banaras Hindu University,11.0,67.21,1.0,1.5,0.6,21.08
+2017,Banasthali Vidyapith,banasthali vidyapith,89.0,38.74,7.46,Banasthali Vidyapith,,,,,11.37,31.28
+2018,Banasthali Vidyapith,banasthali vidyapith,91.0,41.88,4.3,Banasthali Vidyapith,89.0,38.74,-2.0,3.14,11.37,37.58
+2019,Banasthali Vidyapith,banasthali vidyapith,87.0,43.22,4.33,Banasthali Vidyapith,91.0,41.88,4.0,1.34,11.37,38.89
+2020,Banasthali Vidyapith,banasthali vidyapith,66.0,45.89,10.48,Banasthali Vidyapith,87.0,43.22,21.0,2.67,11.37,35.41
+2021,Banasthali Vidyapith,banasthali vidyapith,66.0,45.89,10.48,Banasthali Vidyapith,66.0,45.89,0.0,0.0,11.37,35.41
+2022,Banasthali Vidyapith,banasthali vidyapith,87.0,45.8,5.31,Banasthali Vidyapith,66.0,45.89,-21.0,-0.09,11.37,40.49
+2023,Banasthali Vidyapith,banasthali vidyapith,97.0,45.85,8.15,Banasthali Vidyapith,87.0,45.8,-10.0,0.05,11.37,37.7
+2022,Bangalore University,bangalore university,98.0,44.53,10.45,Bangalore University,,,,,0.0,34.08
+2017,Bharath Institute of Higher Education & Research,bharath institute of higher education research,35.0,46.45,3.79,Bharath Institute of Higher Education & Research,,,,,22.62,42.66
+2018,Bharath Institute of Higher Education & Research,bharath institute of higher education research,35.0,50.74,2.4,Bharath Institute of Higher Education & Research,35.0,46.45,0.0,4.29,22.62,48.34
+2019,Bharath Institute of Higher Education & Research,bharath institute of higher education research,57.0,46.32,3.19,Bharath Institute of Higher Education & Research,35.0,50.74,-22.0,-4.42,22.62,43.13
+2020,Bharath Institute of Higher Education & Research,bharath institute of higher education research,75.0,44.81,5.57,Bharath Institute of Higher Education & Research,57.0,46.32,-18.0,-1.51,22.62,39.24
+2021,Bharath Institute of Higher Education & Research,bharath institute of higher education research,75.0,44.81,5.57,Bharath Institute of Higher Education & Research,75.0,44.81,0.0,0.0,22.62,39.24
+2022,Bharath Institute of Higher Education & Research,bharath institute of higher education research,95.0,44.73,4.3,Bharath Institute of Higher Education & Research,75.0,44.81,-20.0,-0.08,22.62,40.43
+2025,Bharath Institute of Higher Education & Research,bharath institute of higher education research,90.0,49.85,8.46,Bharath Institute of Higher Education & Research,95.0,44.73,5.0,5.12,22.62,41.39
+2017,Bharathiar University,bharathiar university,45.0,44.29,9.11,Bharathiar University,,,,,18.16,35.18
+2018,Bharathiar University,bharathiar university,20.0,55.08,22.63,Bharathiar University,45.0,44.29,25.0,10.79,18.16,32.45
+2019,Bharathiar University,bharathiar university,21.0,57.23,31.2,Bharathiar University,20.0,55.08,-1.0,2.15,18.16,26.03
+2020,Bharathiar University,bharathiar university,22.0,55.38,24.6,Bharathiar University,21.0,57.23,-1.0,-1.85,18.16,30.78
+2021,Bharathiar University,bharathiar university,22.0,55.38,24.6,Bharathiar University,22.0,55.38,0.0,0.0,18.16,30.78
+2022,Bharathiar University,bharathiar university,24.0,57.26,26.97,Bharathiar University,22.0,55.38,-2.0,1.88,18.16,30.29
+2023,Bharathiar University,bharathiar university,36.0,55.58,25.52,Bharathiar University,24.0,57.26,-12.0,-1.68,18.16,30.06
+2025,Bharathiar University,bharathiar university,76.0,51.96,17.96,Bharathiar University,36.0,55.58,-40.0,-3.62,18.16,34.0
+2018,Bharathidasan University,bharathidasan university,94.0,41.63,26.3,Bharathidasan University,,,,,11.17,15.33
+2019,Bharathidasan University,bharathidasan university,86.0,43.41,24.17,Bharathidasan University,94.0,41.63,8.0,1.78,11.17,19.24
+2020,Bharathidasan University,bharathidasan university,90.0,42.79,18.85,Bharathidasan University,86.0,43.41,-4.0,-0.62,11.17,23.94
+2021,Bharathidasan University,bharathidasan university,90.0,42.79,18.85,Bharathidasan University,90.0,42.79,0.0,0.0,11.17,23.94
+2022,Bharathidasan University,bharathidasan university,82.0,46.14,18.81,Bharathidasan University,90.0,42.79,8.0,3.35,11.17,27.33
+2023,Bharathidasan University,bharathidasan university,70.0,49.45,12.31,Bharathidasan University,82.0,46.14,12.0,3.31,11.17,37.14
+2025,Bharathidasan University,bharathidasan university,61.0,53.82,12.28,Bharathidasan University,70.0,49.45,9.0,4.37,11.17,41.54
+2017,Bharati Vidyapeeth,bharati vidyapeeth,90.0,38.73,30.64,Bharati Vidyapeeth,,,,,2.05,8.09
+2018,Bharati Vidyapeeth,bharati vidyapeeth,93.0,41.71,14.76,Bharati Vidyapeeth,90.0,38.73,-3.0,2.98,2.05,26.95
+2019,Bharati Vidyapeeth,bharati vidyapeeth,88.0,42.89,13.66,Bharati Vidyapeeth,93.0,41.71,5.0,1.18,2.05,29.23
+2018,Birla Institute of Technology,birla institute of technology,66.0,44.71,10.5,Birla Institute of Technology,,,,,9.5,34.21
+2019,Birla Institute of Technology,birla institute of technology,85.0,43.49,23.47,Birla Institute of Technology,66.0,44.71,-19.0,-1.22,9.5,20.02
+2023,Birla Institute of Technology  & Science -Pilani,birla institute of technology science pilani,25.0,58.76,25.3,Birla Institute of Technology  & Science -Pilani,,,,,4.5,33.46
+2025,Birla Institute of Technology  & Science -Pilani,birla institute of technology science pilani,16.0,65.06,27.41,Birla Institute of Technology  & Science -Pilani,25.0,58.76,9.0,6.3,4.5,37.65
+2018,Birla Institute of Technology & Science,birla institute of technology science,26.0,52.15,35.32,Birla Institute of Technology & Science,,,,,6.5,16.83
+2019,Birla Institute of Technology & Science,birla institute of technology science,39.0,50.53,34.41,Birla Institute of Technology & Science,26.0,52.15,-13.0,-1.62,6.5,16.12
+2022,Birla Institute of Technology & Science - Pilani,birla institute of technology science pilani,32.0,55.1,27.26,Birla Institute of Technology & Science - Pilani,,,,,0.0,27.84
+2017,Birla Institute of Technology & Science -Pilani,birla institute of technology science pilani,21.0,51.46,49.96,Birla Institute of Technology & Science -Pilani,,,,,3.77,1.5
+2020,Birla Institute of Technology & Science -Pilani,birla institute of technology science pilani,29.0,53.32,32.81,Birla Institute of Technology & Science -Pilani,21.0,51.46,-8.0,1.86,3.77,20.51
+2021,Birla Institute of Technology & Science -Pilani,birla institute of technology science pilani,29.0,53.32,32.81,Birla Institute of Technology & Science -Pilani,29.0,53.32,0.0,0.0,3.77,20.51
+2017,Calcutta University,calcutta university,27.0,48.9,17.15,Calcutta University,,,,,11.36,31.75
+2018,Calcutta University,calcutta university,21.0,53.38,26.3,Calcutta University,27.0,48.9,6.0,4.48,11.36,27.08
+2019,Calcutta University,calcutta university,12.0,60.87,37.39,Calcutta University,21.0,53.38,9.0,7.49,11.36,23.48
+2020,Calcutta University,calcutta university,11.0,61.45,39.68,Calcutta University,12.0,60.87,1.0,0.58,11.36,21.77
+2021,Calcutta University,calcutta university,11.0,61.45,39.68,Calcutta University,11.0,61.45,0.0,0.0,11.36,21.77
+2022,Calcutta University,calcutta university,15.0,61.57,37.86,Calcutta University,11.0,61.45,-4.0,0.12,11.36,23.71
+2023,Calcutta University,calcutta university,23.0,60.22,29.33,Calcutta University,15.0,61.57,-8.0,-1.35,11.36,30.89
+2025,Calcutta University,calcutta university,47.0,55.91,24.79,Calcutta University,23.0,60.22,-24.0,-4.31,11.36,31.12
+2017,Calicut University,calicut university,93.0,38.45,4.74,Calicut University,,,,,2.05,33.71
+2019,Calicut University,calicut university,90.0,42.22,7.22,Calicut University,93.0,38.45,3.0,3.77,2.05,35.0
+2020,Calicut University,calicut university,95.0,42.42,2.88,Calicut University,90.0,42.22,-5.0,0.2,2.05,39.54
+2021,Calicut University,calicut university,95.0,42.42,2.88,Calicut University,95.0,42.42,0.0,0.0,2.05,39.54
+2020,Chandigarh University,chandigarh university,77.0,44.62,28.91,Chandigarh University,,,,,18.13,15.71
+2021,Chandigarh University,chandigarh university,77.0,44.62,28.91,Chandigarh University,77.0,44.62,0.0,0.0,18.13,15.71
+2022,Chandigarh University,chandigarh university,48.0,50.39,31.19,Chandigarh University,77.0,44.62,29.0,5.77,18.13,19.2
+2023,Chandigarh University,chandigarh university,45.0,53.29,35.18,Chandigarh University,48.0,50.39,3.0,2.9,18.13,18.11
+2025,Chandigarh University,chandigarh university,32.0,59.55,22.48,Chandigarh University,45.0,53.29,13.0,6.26,18.13,37.07
+2018,Chaudhary Charan Singh Haryana Agricultural University,chaudhary charan singh haryana agricultural university,76.0,43.21,2.01,Chaudhary Charan Singh Haryana Agricultural University,,,,,6.5,41.2
+2019,Chaudhary Charan Singh Haryana Agricultural University,chaudhary charan singh haryana agricultural university,89.0,42.36,2.02,Chaudhary Charan Singh Haryana Agricultural University,76.0,43.21,-13.0,-0.85,6.5,40.34
+2023,Christ University,christ university,100.0,45.65,39.05,Christ University,,,,,2.0,6.6
+2025,Christ University,christ university,96.0,49.65,37.84,Christ University,100.0,45.65,4.0,4.0,2.0,11.81
+2018,Cochin University of Science and Technology,cochin university of science and technology,99.0,40.53,18.88,Cochin University of Science and Technology,,,,,16.41,21.65
+2019,Cochin University of Science and Technology,cochin university of science and technology,94.0,41.42,14.84,Cochin University of Science and Technology,99.0,40.53,5.0,0.89,16.41,26.58
+2020,Cochin University of Science and Technology,cochin university of science and technology,65.0,46.02,14.88,Cochin University of Science and Technology,94.0,41.42,29.0,4.6,16.41,31.14
+2021,Cochin University of Science and Technology,cochin university of science and technology,65.0,46.02,14.88,Cochin University of Science and Technology,65.0,46.02,0.0,0.0,16.41,31.14
+2022,Cochin University of Science and Technology,cochin university of science and technology,69.0,48.02,13.02,Cochin University of Science and Technology,65.0,46.02,-4.0,2.0,16.41,35.0
+2023,Cochin University of Science and Technology,cochin university of science and technology,63.0,50.34,13.81,Cochin University of Science and Technology,69.0,48.02,6.0,2.32,16.41,36.53
+2025,Cochin University of Science and Technology,cochin university of science and technology,50.0,55.38,7.45,Cochin University of Science and Technology,63.0,50.34,13.0,5.04,16.41,47.93
+2018,College of Engineering,college of engineering,96.0,40.74,12.07,College of Engineering,,,,,2.5,28.67
+2019,College of Engineering,college of engineering,91.0,42.11,15.42,College of Engineering,96.0,40.74,5.0,1.37,2.5,26.69
+2023,Datta Meghe Institute of Higher Education and Research,datta meghe institute of higher education and research,75.0,48.92,0.0,Datta Meghe Institute of Higher Education and Research,,,,,4.5,48.92
+2025,Datta Meghe Institute of Higher Education and Research,datta meghe institute of higher education and research,84.0,50.92,0.41,Datta Meghe Institute of Higher Education and Research,75.0,48.92,-9.0,2.0,4.5,50.51
+2019,Datta Meghe Institute of Medical Sciences,datta meghe institute of medical sciences,92.0,41.73,0.82,Datta Meghe Institute of Medical Sciences,,,,,4.0,40.91
+2020,Datta Meghe Institute of Medical Sciences,datta meghe institute of medical sciences,100.0,41.1,1.46,Datta Meghe Institute of Medical Sciences,92.0,41.73,-8.0,-0.63,4.0,39.64
+2021,Datta Meghe Institute of Medical Sciences,datta meghe institute of medical sciences,100.0,41.1,1.46,Datta Meghe Institute of Medical Sciences,100.0,41.1,0.0,0.0,4.0,39.64
+2022,Datta Meghe Institute of Medical Sciences,datta meghe institute of medical sciences,92.0,45.21,1.12,Datta Meghe Institute of Medical Sciences,100.0,41.1,8.0,4.11,4.0,44.09
+2018,Dayalbagh Educational Institute,dayalbagh educational institute,90.0,41.95,12.38,Dayalbagh Educational Institute,,,,,0.0,29.57
+2018,Delhi Technological University,delhi technological university,100.0,40.52,15.04,Delhi Technological University,,,,,14.72,25.48
+2019,Delhi Technological University,delhi technological university,71.0,44.89,19.51,Delhi Technological University,100.0,40.52,29.0,4.37,14.72,25.38
+2020,Delhi Technological University,delhi technological university,54.0,46.98,25.82,Delhi Technological University,71.0,44.89,17.0,2.09,14.72,21.16
+2021,Delhi Technological University,delhi technological university,54.0,46.98,25.82,Delhi Technological University,54.0,46.98,0.0,0.0,14.72,21.16
+2022,Delhi Technological University,delhi technological university,63.0,49.03,28.71,Delhi Technological University,54.0,46.98,-9.0,2.05,14.72,20.32
+2023,Delhi Technological University,delhi technological university,61.0,50.54,28.52,Delhi Technological University,63.0,49.03,2.0,1.51,14.72,22.02
+2025,Delhi Technological University,delhi technological university,62.0,53.74,22.0,Delhi Technological University,61.0,50.54,-1.0,3.2,14.72,31.74
+2020,Dr. B. R. Ambedkar National Institute of Technology,dr b r ambedkar national institute of technology,78.0,44.53,14.35,Dr. B. R. Ambedkar National Institute of Technology,,,,,0.0,30.18
+2021,Dr. B. R. Ambedkar National Institute of Technology,dr b r ambedkar national institute of technology,78.0,44.53,14.35,Dr. B. R. Ambedkar National Institute of Technology,78.0,44.53,0.0,0.0,0.0,30.18
+2022,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",dr b r ambedkar national institute of technology jalandhar,85.0,45.85,4.8,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",,,,,6.5,41.05
+2023,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",dr b r ambedkar national institute of technology jalandhar,72.0,49.04,23.0,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",85.0,45.85,13.0,3.19,6.5,26.04
+2018,Dr. D. Y. Patil Vidyapeeth,dr d y patil vidyapeeth,79.0,43.15,1.22,Dr. D. Y. Patil Vidyapeeth,,,,,4.2,41.93
+2019,Dr. D. Y. Patil Vidyapeeth,dr d y patil vidyapeeth,70.0,45.11,7.56,Dr. D. Y. Patil Vidyapeeth,79.0,43.15,9.0,1.96,4.2,37.55
+2020,Dr. D. Y. Patil Vidyapeeth,dr d y patil vidyapeeth,80.0,44.19,14.88,Dr. D. Y. Patil Vidyapeeth,70.0,45.11,-10.0,-0.92,4.2,29.31
+2021,Dr. D. Y. Patil Vidyapeeth,dr d y patil vidyapeeth,80.0,44.19,14.88,Dr. D. Y. Patil Vidyapeeth,80.0,44.19,0.0,0.0,4.2,29.31
+2022,Dr. D. Y. Patil Vidyapeeth,dr d y patil vidyapeeth,76.0,46.76,10.89,Dr. D. Y. Patil Vidyapeeth,80.0,44.19,4.0,2.57,4.2,35.87
+2023,Dr. D. Y. Patil Vidyapeeth,dr d y patil vidyapeeth,81.0,48.17,18.53,Dr. D. Y. Patil Vidyapeeth,76.0,46.76,-5.0,1.41,4.2,29.64
+2025,Dr. D. Y. Patil Vidyapeeth,dr d y patil vidyapeeth,71.0,52.67,25.46,Dr. D. Y. Patil Vidyapeeth,81.0,48.17,10.0,4.5,4.2,27.21
+2017,Dr. D. Y. Patil Vidyapeeth Pune,dr d y patil vidyapeeth pune,76.0,40.59,11.61,Dr. D. Y. Patil Vidyapeeth Pune,,,,,0.0,28.98
+2017,Dr. Y.S.Parmar University of Horticulture & Forestry,dr y s parmar university of horticulture forestry,84.0,39.54,0.64,Dr. Y.S.Parmar University of Horticulture & Forestry,,,,,0.0,38.9
+2018,G. B. Pant Universtiy of Agriculture and Technology,g b pant universtiy of agriculture and technology,52.0,46.56,5.03,G. B. Pant Universtiy of Agriculture and Technology,,,,,4.0,41.53
+2019,G. B. Pant Universtiy of Agriculture and Technology,g b pant universtiy of agriculture and technology,60.0,46.09,5.44,G. B. Pant Universtiy of Agriculture and Technology,52.0,46.56,-8.0,-0.47,4.0,40.65
+2017,Gauhati University,gauhati university,43.0,44.42,2.48,Gauhati University,,,,,8.39,41.94
+2018,Gauhati University,gauhati university,61.0,45.44,6.11,Gauhati University,43.0,44.42,-18.0,1.02,8.39,39.33
+2019,Gauhati University,gauhati university,65.0,45.57,9.59,Gauhati University,61.0,45.44,-4.0,0.13,8.39,35.98
+2020,Gauhati University,gauhati university,67.0,45.87,10.48,Gauhati University,65.0,45.57,-2.0,0.3,8.39,35.39
+2021,Gauhati University,gauhati university,67.0,45.87,10.48,Gauhati University,67.0,45.87,0.0,0.0,8.39,35.39
+2022,Gauhati University,gauhati university,64.0,48.98,8.66,Gauhati University,67.0,45.87,3.0,3.11,8.39,40.32
+2025,Gauhati University,gauhati university,52.0,55.27,9.78,Gauhati University,64.0,48.98,12.0,6.29,8.39,45.49
+2018,Goa University,goa university,98.0,40.66,2.01,Goa University,,,,,0.0,38.65
+2023,Graphic Era University,graphic era university,89.0,47.29,33.38,Graphic Era University,,,,,8.5,13.91
+2025,Graphic Era University,graphic era university,72.0,52.44,30.47,Graphic Era University,89.0,47.29,17.0,5.15,8.5,21.97
+2020,Gujarat University,gujarat university,62.0,46.57,5.57,Gujarat University,,,,,9.5,41.0
+2021,Gujarat University,gujarat university,62.0,46.57,5.57,Gujarat University,62.0,46.57,0.0,0.0,9.5,41.0
+2022,Gujarat University,gujarat university,73.0,47.72,3.78,Gujarat University,62.0,46.57,-11.0,1.15,9.5,43.94
+2023,Gujarat University,gujarat university,85.0,47.91,2.77,Gujarat University,73.0,47.72,-12.0,0.19,9.5,45.14
+2017,Guru Angad Dev Veterinary & Animal Sciences University,guru angad dev veterinary animal sciences university,81.0,40.1,0.59,Guru Angad Dev Veterinary & Animal Sciences University,,,,,0.0,39.51
+2019,Guru Gobind Singh Indraprastha University,guru gobind singh indraprastha university,95.0,41.21,3.58,Guru Gobind Singh Indraprastha University,,,,,1.89,37.63
+2020,Guru Gobind Singh Indraprastha University,guru gobind singh indraprastha university,99.0,41.43,21.15,Guru Gobind Singh Indraprastha University,95.0,41.21,-4.0,0.22,1.89,20.28
+2021,Guru Gobind Singh Indraprastha University,guru gobind singh indraprastha university,99.0,41.43,21.15,Guru Gobind Singh Indraprastha University,99.0,41.43,0.0,0.0,1.89,20.28
+2018,Guru Nanak Dev University,guru nanak dev university,86.0,42.36,7.17,Guru Nanak Dev University,,,,,2.58,35.19
+2019,Guru Nanak Dev University,guru nanak dev university,81.0,43.69,5.8,Guru Nanak Dev University,86.0,42.36,5.0,1.33,2.58,37.89
+2020,Guru Nanak Dev University,guru nanak dev university,85.0,43.21,17.89,Guru Nanak Dev University,81.0,43.69,-4.0,-0.48,2.58,25.32
+2021,Guru Nanak Dev University,guru nanak dev university,85.0,43.21,17.89,Guru Nanak Dev University,85.0,43.21,0.0,0.0,2.58,25.32
+2022,Guru Nanak Dev University,guru nanak dev university,80.0,46.31,10.01,Guru Nanak Dev University,85.0,43.21,5.0,3.1,2.58,36.3
+2023,Guru Nanak Dev University,guru nanak dev university,87.0,47.55,12.01,Guru Nanak Dev University,80.0,46.31,-7.0,1.24,2.58,35.54
+2017,Homi Bhabha National Institute,homi bhabha national institute,35.0,46.45,8.7,Homi Bhabha National Institute,,,,,5.83,37.75
+2018,Homi Bhabha National Institute,homi bhabha national institute,41.0,48.98,9.85,Homi Bhabha National Institute,35.0,46.45,-6.0,2.53,5.83,39.13
+2019,Homi Bhabha National Institute,homi bhabha national institute,30.0,51.95,4.33,Homi Bhabha National Institute,41.0,48.98,11.0,2.97,5.83,47.62
+2020,Homi Bhabha National Institute,homi bhabha national institute,36.0,50.42,6.22,Homi Bhabha National Institute,30.0,51.95,-6.0,-1.53,5.83,44.2
+2021,Homi Bhabha National Institute,homi bhabha national institute,36.0,50.42,6.22,Homi Bhabha National Institute,36.0,50.42,0.0,0.0,5.83,44.2
+2022,Homi Bhabha National Institute,homi bhabha national institute,33.0,54.85,5.31,Homi Bhabha National Institute,36.0,50.42,3.0,4.43,5.83,49.54
+2023,Homi Bhabha National Institute,homi bhabha national institute,30.0,57.09,6.08,Homi Bhabha National Institute,33.0,54.85,3.0,2.24,5.83,51.01
+2025,Homi Bhabha National Institute,homi bhabha national institute,20.0,63.03,11.67,Homi Bhabha National Institute,30.0,57.09,10.0,5.94,5.83,51.36
+2017,Indian Agricultural Research Institute,indian agricultural research institute,23.0,51.2,11.52,Indian Agricultural Research Institute,,,,,0.5,39.68
+2025,Indian Agricultural Research Institute,indian agricultural research institute,24.0,61.59,16.61,Indian Agricultural Research Institute,23.0,51.2,-1.0,10.39,0.5,44.98
+2017,Indian Institute of Crop Processing Technology,indian institute of crop processing technology,87.0,39.15,1.42,Indian Institute of Crop Processing Technology,,,,,0.0,37.73
+2019,Indian Institute of Engineering Science and Technology,indian institute of engineering science and technology,36.0,50.96,30.41,Indian Institute of Engineering Science and Technology,,,,,4.71,20.55
+2020,Indian Institute of Engineering Science and Technology,indian institute of engineering science and technology,46.0,48.7,27.77,Indian Institute of Engineering Science and Technology,36.0,50.96,-10.0,-2.26,4.71,20.93
+2021,Indian Institute of Engineering Science and Technology,indian institute of engineering science and technology,46.0,48.7,27.77,Indian Institute of Engineering Science and Technology,46.0,48.7,0.0,0.0,4.71,20.93
+2017,"Indian Institute of Engineering Science and Technology, Shibpur",indian institute of engineering science and technology shibpur,73.0,41.28,9.29,"Indian Institute of Engineering Science and Technology, Shibpur",,,,,10.92,31.99
+2018,"Indian Institute of Engineering Science and Technology, Shibpur",indian institute of engineering science and technology shibpur,44.0,48.06,22.63,"Indian Institute of Engineering Science and Technology, Shibpur",73.0,41.28,29.0,6.78,10.92,25.43
+2022,"Indian Institute of Engineering Science and Technology, Shibpur",indian institute of engineering science and technology shibpur,66.0,48.45,27.26,"Indian Institute of Engineering Science and Technology, Shibpur",44.0,48.06,-22.0,0.39,10.92,21.19
+2023,"Indian Institute of Engineering Science and Technology, Shibpur",indian institute of engineering science and technology shibpur,66.0,49.79,21.07,"Indian Institute of Engineering Science and Technology, Shibpur",66.0,48.45,0.0,1.34,10.92,28.72
+2017,Indian Institute of Management Ahmedabad,indian institute of management ahmedabad,17.0,54.27,59.91,Indian Institute of Management Ahmedabad,,,,,0.0,-5.64
+2017,Indian Institute of Management Bangalore,indian institute of management bangalore,25.0,49.26,38.72,Indian Institute of Management Bangalore,,,,,0.0,10.54
+2017,Indian Institute of Management Calcutta,indian institute of management calcutta,39.0,45.17,24.61,Indian Institute of Management Calcutta,,,,,28.95,20.56
+2018,Indian Institute of Management Calcutta,indian institute of management calcutta,34.0,50.87,27.8,Indian Institute of Management Calcutta,39.0,45.17,5.0,5.7,28.95,23.07
+2019,Indian Institute of Management Calcutta,indian institute of management calcutta,26.0,52.68,46.34,Indian Institute of Management Calcutta,34.0,50.87,8.0,1.81,28.95,6.34
+2023,Indian Institute of Management Calcutta,indian institute of management calcutta,99.0,45.74,38.4,Indian Institute of Management Calcutta,26.0,52.68,-73.0,-6.94,28.95,7.34
+2017,Indian Institute of Management Kashipur,indian institute of management kashipur,71.0,41.36,0.72,Indian Institute of Management Kashipur,,,,,0.0,40.64
+2017,Indian Institute of Management Kozhikode,indian institute of management kozhikode,85.0,39.2,5.73,Indian Institute of Management Kozhikode,,,,,3.0,33.47
+2022,Indian Institute of Management Kozhikode,indian institute of management kozhikode,79.0,46.36,23.89,Indian Institute of Management Kozhikode,85.0,39.2,6.0,7.16,3.0,22.47
+2017,Indian Institute of Management Lucknow,indian institute of management lucknow,51.0,43.35,12.92,Indian Institute of Management Lucknow,,,,,0.0,30.43
+2017,Indian Institute of Management Tiruchirappalli,indian institute of management tiruchirappalli,67.0,41.73,2.31,Indian Institute of Management Tiruchirappalli,,,,,0.0,39.42
+2017,Indian Institute of Management Udaipur,indian institute of management udaipur,63.0,42.15,5.04,Indian Institute of Management Udaipur,,,,,0.0,37.11
+2018,Indian Institute of Science,indian institute of science,1.0,82.16,100.0,Indian Institute of Science,,,,,0.35,-17.84
+2019,Indian Institute of Science,indian institute of science,2.0,82.28,100.0,Indian Institute of Science,1.0,82.16,-1.0,0.12,0.35,-17.72
+2020,Indian Institute of Science,indian institute of science,2.0,82.67,100.0,Indian Institute of Science,2.0,82.28,0.0,0.39,0.35,-17.33
+2021,Indian Institute of Science,indian institute of science,2.0,82.67,100.0,Indian Institute of Science,2.0,82.67,0.0,0.0,0.35,-17.33
+2022,Indian Institute of Science,indian institute of science,2.0,83.57,100.0,Indian Institute of Science,2.0,82.67,0.0,0.9,0.35,-16.43
+2023,Indian Institute of Science,indian institute of science,2.0,83.09,97.94,Indian Institute of Science,2.0,83.57,0.0,-0.48,0.35,-14.85
+2025,Indian Institute of Science,indian institute of science,2.0,85.0,98.41,Indian Institute of Science,2.0,83.09,0.0,1.91,0.35,-13.41
+2017,Indian Institute of Science Bangalore,indian institute of science bangalore,1.0,83.28,83.33,Indian Institute of Science Bangalore,,,,,0.0,-0.05
+2017,"Indian Institute of Science Education & Research, Bhopal",indian institute of science education research bhopal,98.0,37.32,3.0,"Indian Institute of Science Education & Research, Bhopal",,,,,0.0,34.32
+2017,"Indian Institute of Science Education & Research, Kolkata",indian institute of science education research kolkata,44.0,44.38,6.79,"Indian Institute of Science Education & Research, Kolkata",,,,,2.0,37.59
+2022,"Indian Institute of Science Education & Research, Kolkata",indian institute of science education research kolkata,40.0,52.35,25.46,"Indian Institute of Science Education & Research, Kolkata",44.0,44.38,4.0,7.97,2.0,26.89
+2017,"Indian Institute of Science Education & Research, Mohali",indian institute of science education research mohali,52.0,43.27,7.52,"Indian Institute of Science Education & Research, Mohali",,,,,10.12,35.75
+2020,"Indian Institute of Science Education & Research, Mohali",indian institute of science education research mohali,40.0,49.58,22.04,"Indian Institute of Science Education & Research, Mohali",52.0,43.27,12.0,6.31,10.12,27.54
+2021,"Indian Institute of Science Education & Research, Mohali",indian institute of science education research mohali,40.0,49.58,22.04,"Indian Institute of Science Education & Research, Mohali",40.0,49.58,0.0,0.0,10.12,27.54
+2022,"Indian Institute of Science Education & Research, Mohali",indian institute of science education research mohali,47.0,50.55,20.57,"Indian Institute of Science Education & Research, Mohali",40.0,49.58,-7.0,0.97,10.12,29.98
+2023,"Indian Institute of Science Education & Research, Mohali",indian institute of science education research mohali,51.0,51.86,17.73,"Indian Institute of Science Education & Research, Mohali",47.0,50.55,-4.0,1.31,10.12,34.13
+2025,"Indian Institute of Science Education & Research, Mohali",indian institute of science education research mohali,70.0,52.68,17.42,"Indian Institute of Science Education & Research, Mohali",51.0,51.86,-19.0,0.82,10.12,35.26
+2017,"Indian Institute of Science Education & Research, Pune",indian institute of science education research pune,29.0,48.28,24.13,"Indian Institute of Science Education & Research, Pune",,,,,1.5,24.15
+2022,"Indian Institute of Science Education & Research, Pune",indian institute of science education research pune,26.0,56.91,27.85,"Indian Institute of Science Education & Research, Pune",29.0,48.28,3.0,8.63,1.5,29.06
+2018,Indian Institute of Science Education & Research Bhopal,indian institute of science education research bhopal,56.0,46.17,7.86,Indian Institute of Science Education & Research Bhopal,,,,,10.91,38.31
+2019,Indian Institute of Science Education & Research Bhopal,indian institute of science education research bhopal,37.0,50.88,7.91,Indian Institute of Science Education & Research Bhopal,56.0,46.17,19.0,4.71,10.91,42.97
+2020,Indian Institute of Science Education & Research Bhopal,indian institute of science education research bhopal,50.0,48.57,8.1,Indian Institute of Science Education & Research Bhopal,37.0,50.88,-13.0,-2.31,10.91,40.47
+2021,Indian Institute of Science Education & Research Bhopal,indian institute of science education research bhopal,50.0,48.57,8.1,Indian Institute of Science Education & Research Bhopal,50.0,48.57,0.0,0.0,10.91,40.47
+2022,Indian Institute of Science Education & Research Bhopal,indian institute of science education research bhopal,61.0,49.29,8.66,Indian Institute of Science Education & Research Bhopal,50.0,48.57,-11.0,0.72,10.91,40.63
+2023,Indian Institute of Science Education & Research Bhopal,indian institute of science education research bhopal,60.0,50.58,8.15,Indian Institute of Science Education & Research Bhopal,61.0,49.29,1.0,1.29,10.91,42.43
+2025,Indian Institute of Science Education & Research Bhopal,indian institute of science education research bhopal,75.0,51.99,6.07,Indian Institute of Science Education & Research Bhopal,60.0,50.58,-15.0,1.41,10.91,45.92
+2018,Indian Institute of Science Education & Research Kolkata,indian institute of science education research kolkata,25.0,52.52,11.13,Indian Institute of Science Education & Research Kolkata,,,,,12.97,41.39
+2019,Indian Institute of Science Education & Research Kolkata,indian institute of science education research kolkata,40.0,50.44,24.86,Indian Institute of Science Education & Research Kolkata,25.0,52.52,-15.0,-2.08,12.97,25.58
+2020,Indian Institute of Science Education & Research Kolkata,indian institute of science education research kolkata,35.0,50.48,23.34,Indian Institute of Science Education & Research Kolkata,40.0,50.44,5.0,0.04,12.97,27.14
+2021,Indian Institute of Science Education & Research Kolkata,indian institute of science education research kolkata,35.0,50.48,23.34,Indian Institute of Science Education & Research Kolkata,35.0,50.48,0.0,0.0,12.97,27.14
+2023,Indian Institute of Science Education & Research Kolkata,indian institute of science education research kolkata,43.0,53.72,13.81,Indian Institute of Science Education & Research Kolkata,35.0,50.48,-8.0,3.24,12.97,39.91
+2025,Indian Institute of Science Education & Research Kolkata,indian institute of science education research kolkata,67.0,53.04,16.61,Indian Institute of Science Education & Research Kolkata,43.0,53.72,-24.0,-0.68,12.97,36.43
+2018,Indian Institute of Science Education & Research Mohali,indian institute of science education research mohali,55.0,46.24,16.73,Indian Institute of Science Education & Research Mohali,,,,,5.5,29.51
+2019,Indian Institute of Science Education & Research Mohali,indian institute of science education research mohali,66.0,45.43,17.38,Indian Institute of Science Education & Research Mohali,55.0,46.24,-11.0,-0.81,5.5,28.05
+2018,Indian Institute of Science Education & Research Pune,indian institute of science education research pune,32.0,51.04,25.85,Indian Institute of Science Education & Research Pune,,,,,11.12,25.19
+2019,Indian Institute of Science Education & Research Pune,indian institute of science education research pune,23.0,54.48,32.75,Indian Institute of Science Education & Research Pune,32.0,51.04,9.0,3.44,11.12,21.73
+2020,Indian Institute of Science Education & Research Pune,indian institute of science education research pune,24.0,54.47,28.91,Indian Institute of Science Education & Research Pune,23.0,54.48,-1.0,-0.01,11.12,25.56
+2021,Indian Institute of Science Education & Research Pune,indian institute of science education research pune,24.0,54.47,28.91,Indian Institute of Science Education & Research Pune,24.0,54.47,0.0,0.0,11.12,25.56
+2023,Indian Institute of Science Education & Research Pune,indian institute of science education research pune,34.0,56.05,21.81,Indian Institute of Science Education & Research Pune,24.0,54.47,-10.0,1.58,11.12,34.24
+2025,Indian Institute of Science Education & Research Pune,indian institute of science education research pune,55.0,54.9,23.65,Indian Institute of Science Education & Research Pune,34.0,56.05,-21.0,-1.15,11.12,31.25
+2018,Indian Institute of Science Education & Research Thiruvananthapuram,indian institute of science education research thiruvananthapuram,58.0,45.97,22.39,Indian Institute of Science Education & Research Thiruvananthapuram,,,,,0.0,23.58
+2017,Indian Institute of Space Science and Technology,indian institute of space science and technology,56.0,43.06,13.45,Indian Institute of Space Science and Technology,,,,,0.0,29.61
+2017,"Indian Institute of Technology (Banaras Hindu University), Varanasi",indian institute of technology banaras hindu university varanasi,70.0,41.37,23.96,"Indian Institute of Technology (Banaras Hindu University), Varanasi",,,,,0.0,17.41
+2018,Indian Institute of Technology (Banaras Hindu University) Varanasi,indian institute of technology banaras hindu university varanasi,28.0,51.85,22.87,Indian Institute of Technology (Banaras Hindu University) Varanasi,,,,,1.31,28.98
+2019,Indian Institute of Technology (Banaras Hindu University) Varanasi,indian institute of technology banaras hindu university varanasi,28.0,52.49,29.2,Indian Institute of Technology (Banaras Hindu University) Varanasi,28.0,51.85,0.0,0.64,1.31,23.29
+2020,Indian Institute of Technology (Banaras Hindu University) Varanasi,indian institute of technology banaras hindu university varanasi,28.0,53.74,31.08,Indian Institute of Technology (Banaras Hindu University) Varanasi,28.0,52.49,0.0,1.25,1.31,22.66
+2021,Indian Institute of Technology (Banaras Hindu University) Varanasi,indian institute of technology banaras hindu university varanasi,28.0,53.74,31.08,Indian Institute of Technology (Banaras Hindu University) Varanasi,28.0,53.74,0.0,0.0,1.31,22.66
+2022,Indian Institute of Technology (Banaras Hindu University) Varanasi,indian institute of technology banaras hindu university varanasi,29.0,55.85,39.21,Indian Institute of Technology (Banaras Hindu University) Varanasi,28.0,53.74,-1.0,2.11,1.31,16.64
+2023,Indian Institute of Technology (Banaras Hindu University) Varanasi,indian institute of technology banaras hindu university varanasi,31.0,57.08,38.07,Indian Institute of Technology (Banaras Hindu University) Varanasi,29.0,55.85,-2.0,1.23,1.31,19.01
+2025,Indian Institute of Technology (Banaras Hindu University) Varanasi,indian institute of technology banaras hindu university varanasi,31.0,60.03,38.97,Indian Institute of Technology (Banaras Hindu University) Varanasi,31.0,57.08,0.0,2.95,1.31,21.06
+2022,"Indian Institute of Technology, Bombay",indian institute of technology bombay,3.0,82.35,88.8,"Indian Institute of Technology, Bombay",,,,,0.0,-6.45
+2022,"Indian Institute of Technology, Delhi",indian institute of technology delhi,4.0,82.22,93.08,"Indian Institute of Technology, Delhi",,,,,0.0,-10.86
+2022,"Indian Institute of Technology, Gandhinagar",indian institute of technology gandhinagar,37.0,53.92,20.23,"Indian Institute of Technology, Gandhinagar",,,,,0.0,33.69
+2017,Indian Institute of Technology (Indian School of Mines),indian institute of technology indian school of mines,53.0,43.21,7.88,Indian Institute of Technology (Indian School of Mines),,,,,9.37,35.33
+2020,Indian Institute of Technology (Indian School of Mines),indian institute of technology indian school of mines,26.0,53.88,27.0,Indian Institute of Technology (Indian School of Mines),53.0,43.21,27.0,10.67,9.37,26.88
+2021,Indian Institute of Technology (Indian School of Mines),indian institute of technology indian school of mines,26.0,53.88,27.0,Indian Institute of Technology (Indian School of Mines),26.0,53.88,0.0,0.0,9.37,26.88
+2022,Indian Institute of Technology (Indian School of Mines),indian institute of technology indian school of mines,38.0,53.87,23.57,Indian Institute of Technology (Indian School of Mines),26.0,53.88,-12.0,-0.01,9.37,30.3
+2023,Indian Institute of Technology (Indian School of Mines),indian institute of technology indian school of mines,42.0,53.86,20.33,Indian Institute of Technology (Indian School of Mines),38.0,53.87,-4.0,-0.01,9.37,33.53
+2025,Indian Institute of Technology (Indian School of Mines),indian institute of technology indian school of mines,35.0,58.33,23.19,Indian Institute of Technology (Indian School of Mines),42.0,53.86,7.0,4.47,9.37,35.14
+2018,Indian Institute of Technology (Indian School of Mines) Dhanbad,indian institute of technology indian school of mines dhanbad,27.0,52.04,14.46,Indian Institute of Technology (Indian School of Mines) Dhanbad,,,,,1.0,37.58
+2019,Indian Institute of Technology (Indian School of Mines) Dhanbad,indian institute of technology indian school of mines dhanbad,25.0,53.4,25.54,Indian Institute of Technology (Indian School of Mines) Dhanbad,27.0,52.04,2.0,1.36,1.0,27.86
+2022,"Indian Institute of Technology, Kharagpur",indian institute of technology kharagpur,6.0,75.94,79.82,"Indian Institute of Technology, Kharagpur",,,,,0.0,-3.88
+2022,"Indian Institute of Technology, Mandi",indian institute of technology mandi,43.0,51.05,12.18,"Indian Institute of Technology, Mandi",,,,,0.0,38.87
+2022,"Indian Institute of Technology, Patna",indian institute of technology patna,59.0,49.47,14.24,"Indian Institute of Technology, Patna",,,,,0.0,35.23
+2022,"Indian Institute of Technology, Roorkee",indian institute of technology roorkee,7.0,71.48,48.84,"Indian Institute of Technology, Roorkee",,,,,0.0,22.64
+2017,Indian Institute of Technology Bhubaneswar,indian institute of technology bhubaneswar,66.0,41.75,2.66,Indian Institute of Technology Bhubaneswar,,,,,13.94,39.09
+2018,Indian Institute of Technology Bhubaneswar,indian institute of technology bhubaneswar,51.0,47.07,8.87,Indian Institute of Technology Bhubaneswar,66.0,41.75,15.0,5.32,13.94,38.2
+2019,Indian Institute of Technology Bhubaneswar,indian institute of technology bhubaneswar,46.0,48.73,25.99,Indian Institute of Technology Bhubaneswar,51.0,47.07,5.0,1.66,13.94,22.74
+2020,Indian Institute of Technology Bhubaneswar,indian institute of technology bhubaneswar,58.0,46.78,18.85,Indian Institute of Technology Bhubaneswar,46.0,48.73,-12.0,-1.95,13.94,27.93
+2021,Indian Institute of Technology Bhubaneswar,indian institute of technology bhubaneswar,58.0,46.78,18.85,Indian Institute of Technology Bhubaneswar,58.0,46.78,0.0,0.0,13.94,27.93
+2022,Indian Institute of Technology Bhubaneswar,indian institute of technology bhubaneswar,65.0,48.46,16.97,Indian Institute of Technology Bhubaneswar,58.0,46.78,-7.0,1.68,13.94,31.49
+2023,Indian Institute of Technology Bhubaneswar,indian institute of technology bhubaneswar,91.0,46.73,19.31,Indian Institute of Technology Bhubaneswar,65.0,48.46,-26.0,-1.73,13.94,27.42
+2025,Indian Institute of Technology Bhubaneswar,indian institute of technology bhubaneswar,80.0,51.16,20.03,Indian Institute of Technology Bhubaneswar,91.0,46.73,11.0,4.43,13.94,31.13
+2017,Indian Institute of Technology Bombay,indian institute of technology bombay,3.0,71.78,83.44,Indian Institute of Technology Bombay,,,,,0.45,-11.66
+2018,Indian Institute of Technology Bombay,indian institute of technology bombay,3.0,79.2,79.61,Indian Institute of Technology Bombay,3.0,71.78,0.0,7.42,0.45,-0.41
+2019,Indian Institute of Technology Bombay,indian institute of technology bombay,4.0,78.62,86.92,Indian Institute of Technology Bombay,3.0,79.2,-1.0,-0.58,0.45,-8.3
+2020,Indian Institute of Technology Bombay,indian institute of technology bombay,3.0,82.52,91.96,Indian Institute of Technology Bombay,4.0,78.62,1.0,3.9,0.45,-9.44
+2021,Indian Institute of Technology Bombay,indian institute of technology bombay,3.0,82.52,91.96,Indian Institute of Technology Bombay,3.0,82.52,0.0,0.0,0.45,-9.44
+2023,Indian Institute of Technology Bombay,indian institute of technology bombay,4.0,81.28,84.98,Indian Institute of Technology Bombay,3.0,82.52,-1.0,-1.24,0.45,-3.7
+2025,Indian Institute of Technology Bombay,indian institute of technology bombay,3.0,81.62,83.35,Indian Institute of Technology Bombay,4.0,81.28,1.0,0.34,0.45,-1.73
+2017,Indian Institute of Technology Delhi,indian institute of technology delhi,5.0,64.18,69.53,Indian Institute of Technology Delhi,,,,,0.64,-5.35
+2018,Indian Institute of Technology Delhi,indian institute of technology delhi,4.0,73.97,72.79,Indian Institute of Technology Delhi,5.0,64.18,1.0,9.79,0.64,1.18
+2019,Indian Institute of Technology Delhi,indian institute of technology delhi,3.0,78.69,86.14,Indian Institute of Technology Delhi,4.0,73.97,1.0,4.72,0.64,-7.45
+2020,Indian Institute of Technology Delhi,indian institute of technology delhi,4.0,81.75,93.89,Indian Institute of Technology Delhi,3.0,78.69,-1.0,3.06,0.64,-12.14
+2021,Indian Institute of Technology Delhi,indian institute of technology delhi,4.0,81.75,93.89,Indian Institute of Technology Delhi,4.0,81.75,0.0,0.0,0.64,-12.14
+2023,Indian Institute of Technology Delhi,indian institute of technology delhi,3.0,82.16,90.98,Indian Institute of Technology Delhi,4.0,81.75,1.0,0.41,0.64,-8.82
+2025,Indian Institute of Technology Delhi,indian institute of technology delhi,4.0,80.67,92.23,Indian Institute of Technology Delhi,3.0,82.16,-1.0,-1.49,0.64,-11.56
+2017,Indian Institute of Technology Gandhinagar,indian institute of technology gandhinagar,78.0,40.48,9.24,Indian Institute of Technology Gandhinagar,,,,,16.39,31.24
+2018,Indian Institute of Technology Gandhinagar,indian institute of technology gandhinagar,39.0,49.31,15.9,Indian Institute of Technology Gandhinagar,78.0,40.48,39.0,8.83,16.39,33.41
+2019,Indian Institute of Technology Gandhinagar,indian institute of technology gandhinagar,51.0,47.85,24.17,Indian Institute of Technology Gandhinagar,39.0,49.31,-12.0,-1.46,16.39,23.68
+2020,Indian Institute of Technology Gandhinagar,indian institute of technology gandhinagar,33.0,52.77,23.76,Indian Institute of Technology Gandhinagar,51.0,47.85,18.0,4.92,16.39,29.01
+2021,Indian Institute of Technology Gandhinagar,indian institute of technology gandhinagar,33.0,52.77,23.76,Indian Institute of Technology Gandhinagar,33.0,52.77,0.0,0.0,16.39,29.01
+2023,Indian Institute of Technology Gandhinagar,indian institute of technology gandhinagar,24.0,58.89,27.47,Indian Institute of Technology Gandhinagar,33.0,52.77,9.0,6.12,16.39,31.42
+2025,Indian Institute of Technology Gandhinagar,indian institute of technology gandhinagar,39.0,57.01,20.03,Indian Institute of Technology Gandhinagar,24.0,58.89,-15.0,-1.88,16.39,36.98
+2017,Indian Institute of Technology Guwahati,indian institute of technology guwahati,8.0,60.37,28.79,Indian Institute of Technology Guwahati,,,,,1.45,31.58
+2018,Indian Institute of Technology Guwahati,indian institute of technology guwahati,12.0,60.16,28.01,Indian Institute of Technology Guwahati,8.0,60.37,-4.0,-0.21,1.45,32.15
+2019,Indian Institute of Technology Guwahati,indian institute of technology guwahati,9.0,65.47,46.34,Indian Institute of Technology Guwahati,12.0,60.16,3.0,5.31,1.45,19.13
+2020,Indian Institute of Technology Guwahati,indian institute of technology guwahati,8.0,69.26,47.04,Indian Institute of Technology Guwahati,9.0,65.47,1.0,3.79,1.45,22.22
+2021,Indian Institute of Technology Guwahati,indian institute of technology guwahati,8.0,69.26,47.04,Indian Institute of Technology Guwahati,8.0,69.26,0.0,0.0,1.45,22.22
+2022,Indian Institute of Technology Guwahati,indian institute of technology guwahati,8.0,69.75,45.93,Indian Institute of Technology Guwahati,8.0,69.26,0.0,0.49,1.45,23.82
+2023,Indian Institute of Technology Guwahati,indian institute of technology guwahati,9.0,68.78,42.44,Indian Institute of Technology Guwahati,8.0,69.75,-1.0,-0.97,1.45,26.34
+2025,Indian Institute of Technology Guwahati,indian institute of technology guwahati,11.0,67.67,43.52,Indian Institute of Technology Guwahati,9.0,68.78,-2.0,-1.11,1.45,24.15
+2017,Indian Institute of Technology Hyderabad,indian institute of technology hyderabad,26.0,49.07,18.06,Indian Institute of Technology Hyderabad,,,,,4.63,31.01
+2018,Indian Institute of Technology Hyderabad,indian institute of technology hyderabad,22.0,53.07,22.15,Indian Institute of Technology Hyderabad,26.0,49.07,4.0,4.0,4.63,30.92
+2019,Indian Institute of Technology Hyderabad,indian institute of technology hyderabad,22.0,56.92,40.33,Indian Institute of Technology Hyderabad,22.0,53.07,0.0,3.85,4.63,16.59
+2020,Indian Institute of Technology Hyderabad,indian institute of technology hyderabad,16.0,58.53,49.61,Indian Institute of Technology Hyderabad,22.0,56.92,6.0,1.61,4.63,8.92
+2021,Indian Institute of Technology Hyderabad,indian institute of technology hyderabad,16.0,58.53,49.61,Indian Institute of Technology Hyderabad,16.0,58.53,0.0,0.0,4.63,8.92
+2022,Indian Institute of Technology Hyderabad,indian institute of technology hyderabad,14.0,62.86,49.01,Indian Institute of Technology Hyderabad,16.0,58.53,2.0,4.33,4.63,13.85
+2023,Indian Institute of Technology Hyderabad,indian institute of technology hyderabad,14.0,64.24,48.36,Indian Institute of Technology Hyderabad,14.0,62.86,0.0,1.38,4.63,15.88
+2025,Indian Institute of Technology Hyderabad,indian institute of technology hyderabad,12.0,67.04,54.35,Indian Institute of Technology Hyderabad,14.0,64.24,2.0,2.8,4.63,12.69
+2017,Indian Institute of Technology Indore,indian institute of technology indore,24.0,50.23,7.17,Indian Institute of Technology Indore,,,,,2.36,43.06
+2020,Indian Institute of Technology Indore,indian institute of technology indore,30.0,53.22,15.91,Indian Institute of Technology Indore,24.0,50.23,-6.0,2.99,2.36,37.31
+2021,Indian Institute of Technology Indore,indian institute of technology indore,30.0,53.22,15.91,Indian Institute of Technology Indore,30.0,53.22,0.0,0.0,2.36,37.31
+2022,Indian Institute of Technology Indore,indian institute of technology indore,31.0,55.13,16.21,Indian Institute of Technology Indore,30.0,53.22,-1.0,1.91,2.36,38.92
+2023,Indian Institute of Technology Indore,indian institute of technology indore,28.0,58.0,16.1,Indian Institute of Technology Indore,31.0,55.13,3.0,2.87,2.36,41.9
+2025,Indian Institute of Technology Indore,indian institute of technology indore,27.0,60.13,17.69,Indian Institute of Technology Indore,28.0,58.0,1.0,2.13,2.36,42.44
+2023,Indian Institute of Technology Jodhpur,indian institute of technology jodhpur,66.0,49.79,9.15,Indian Institute of Technology Jodhpur,,,,,0.0,40.64
+2025,Indian Institute of Technology Jodhpur,indian institute of technology jodhpur,66.0,53.17,8.8,Indian Institute of Technology Jodhpur,66.0,49.79,0.0,3.38,0.0,44.37
+2017,Indian Institute of Technology Kanpur,indian institute of technology kanpur,7.0,60.69,63.62,Indian Institute of Technology Kanpur,,,,,0.86,-2.93
+2018,Indian Institute of Technology Kanpur,indian institute of technology kanpur,7.0,65.39,67.59,Indian Institute of Technology Kanpur,7.0,60.69,0.0,4.7,0.86,-2.2
+2019,Indian Institute of Technology Kanpur,indian institute of technology kanpur,6.0,69.07,75.68,Indian Institute of Technology Kanpur,7.0,65.39,1.0,3.68,0.86,-6.61
+2020,Indian Institute of Technology Kanpur,indian institute of technology kanpur,5.0,76.5,79.3,Indian Institute of Technology Kanpur,6.0,69.07,1.0,7.43,0.86,-2.8
+2021,Indian Institute of Technology Kanpur,indian institute of technology kanpur,5.0,76.5,79.3,Indian Institute of Technology Kanpur,5.0,76.5,0.0,0.0,0.86,-2.8
+2022,Indian Institute of Technology Kanpur,indian institute of technology kanpur,5.0,77.83,77.86,Indian Institute of Technology Kanpur,5.0,76.5,0.0,1.33,0.86,-0.03
+2023,Indian Institute of Technology Kanpur,indian institute of technology kanpur,5.0,77.23,69.84,Indian Institute of Technology Kanpur,5.0,77.83,0.0,-0.6,0.86,7.39
+2025,Indian Institute of Technology Kanpur,indian institute of technology kanpur,5.0,77.25,72.56,Indian Institute of Technology Kanpur,5.0,77.23,0.0,0.02,0.86,4.69
+2017,Indian Institute of Technology Kharagpur,indian institute of technology kharagpur,4.0,68.43,64.72,Indian Institute of Technology Kharagpur,,,,,0.9,3.71
+2018,Indian Institute of Technology Kharagpur,indian institute of technology kharagpur,5.0,71.39,62.12,Indian Institute of Technology Kharagpur,4.0,68.43,-1.0,2.96,0.9,9.27
+2019,Indian Institute of Technology Kharagpur,indian institute of technology kharagpur,5.0,74.31,78.11,Indian Institute of Technology Kharagpur,5.0,71.39,0.0,2.92,0.9,-3.8
+2020,Indian Institute of Technology Kharagpur,indian institute of technology kharagpur,6.0,75.62,82.92,Indian Institute of Technology Kharagpur,5.0,74.31,-1.0,1.31,0.9,-7.3
+2021,Indian Institute of Technology Kharagpur,indian institute of technology kharagpur,6.0,75.62,82.92,Indian Institute of Technology Kharagpur,6.0,75.62,0.0,0.0,0.9,-7.3
+2023,Indian Institute of Technology Kharagpur,indian institute of technology kharagpur,7.0,71.82,70.68,Indian Institute of Technology Kharagpur,6.0,75.62,-1.0,-3.8,0.9,1.14
+2025,Indian Institute of Technology Kharagpur,indian institute of technology kharagpur,6.0,73.99,69.51,Indian Institute of Technology Kharagpur,7.0,71.82,1.0,2.17,0.9,4.48
+2017,Indian Institute of Technology Madras,indian institute of technology madras,2.0,73.97,68.7,Indian Institute of Technology Madras,,,,,0.43,5.27
+2018,Indian Institute of Technology Madras,indian institute of technology madras,2.0,81.39,86.61,Indian Institute of Technology Madras,2.0,73.97,0.0,7.42,0.43,-5.22
+2019,Indian Institute of Technology Madras,indian institute of technology madras,1.0,83.88,94.14,Indian Institute of Technology Madras,2.0,81.39,1.0,2.49,0.43,-10.26
+2020,Indian Institute of Technology Madras,indian institute of technology madras,1.0,86.76,97.13,Indian Institute of Technology Madras,1.0,83.88,0.0,2.88,0.43,-10.37
+2021,Indian Institute of Technology Madras,indian institute of technology madras,1.0,86.76,97.13,Indian Institute of Technology Madras,1.0,86.76,0.0,0.0,0.43,-10.37
+2022,Indian Institute of Technology Madras,indian institute of technology madras,1.0,87.59,98.75,Indian Institute of Technology Madras,1.0,86.76,0.0,0.83,0.43,-11.16
+2023,Indian Institute of Technology Madras,indian institute of technology madras,1.0,86.69,100.0,Indian Institute of Technology Madras,1.0,87.59,0.0,-0.9,0.43,-13.31
+2025,Indian Institute of Technology Madras,indian institute of technology madras,1.0,87.31,100.0,Indian Institute of Technology Madras,1.0,86.69,0.0,0.62,0.43,-12.69
+2017,Indian Institute of Technology Mandi,indian institute of technology mandi,37.0,45.62,4.06,Indian Institute of Technology Mandi,,,,,17.72,41.56
+2019,Indian Institute of Technology Mandi,indian institute of technology mandi,44.0,49.4,11.2,Indian Institute of Technology Mandi,37.0,45.62,-7.0,3.78,17.72,38.2
+2020,Indian Institute of Technology Mandi,indian institute of technology mandi,82.0,43.93,12.73,Indian Institute of Technology Mandi,44.0,49.4,-38.0,-5.47,17.72,31.2
+2021,Indian Institute of Technology Mandi,indian institute of technology mandi,82.0,43.93,12.73,Indian Institute of Technology Mandi,82.0,43.93,0.0,0.0,17.72,31.2
+2023,Indian Institute of Technology Mandi,indian institute of technology mandi,73.0,49.03,14.39,Indian Institute of Technology Mandi,82.0,43.93,9.0,5.1,17.72,34.64
+2025,Indian Institute of Technology Mandi,indian institute of technology mandi,58.0,54.52,13.78,Indian Institute of Technology Mandi,73.0,49.03,15.0,5.49,17.72,40.74
+2017,Indian Institute of Technology Patna,indian institute of technology patna,83.0,39.87,2.8,Indian Institute of Technology Patna,,,,,14.06,37.07
+2018,Indian Institute of Technology Patna,indian institute of technology patna,69.0,44.25,7.17,Indian Institute of Technology Patna,83.0,39.87,14.0,4.38,14.06,37.08
+2019,Indian Institute of Technology Patna,indian institute of technology patna,58.0,46.28,12.45,Indian Institute of Technology Patna,69.0,44.25,11.0,2.03,14.06,33.83
+2020,Indian Institute of Technology Patna,indian institute of technology patna,51.0,47.67,16.41,Indian Institute of Technology Patna,58.0,46.28,7.0,1.39,14.06,31.26
+2021,Indian Institute of Technology Patna,indian institute of technology patna,51.0,47.67,16.41,Indian Institute of Technology Patna,51.0,47.67,0.0,0.0,14.06,31.26
+2023,Indian Institute of Technology Patna,indian institute of technology patna,66.0,49.79,12.92,Indian Institute of Technology Patna,51.0,47.67,-15.0,2.12,14.06,36.87
+2025,Indian Institute of Technology Patna,indian institute of technology patna,36.0,57.63,16.34,Indian Institute of Technology Patna,66.0,49.79,30.0,7.84,14.06,41.29
+2017,Indian Institute of Technology Roorkee,indian institute of technology roorkee,9.0,59.84,32.38,Indian Institute of Technology Roorkee,,,,,0.7,27.46
+2018,Indian Institute of Technology Roorkee,indian institute of technology roorkee,8.0,64.93,37.56,Indian Institute of Technology Roorkee,9.0,59.84,1.0,5.09,0.7,27.37
+2019,Indian Institute of Technology Roorkee,indian institute of technology roorkee,8.0,67.68,43.66,Indian Institute of Technology Roorkee,8.0,64.93,0.0,2.75,0.7,24.02
+2020,Indian Institute of Technology Roorkee,indian institute of technology roorkee,7.0,71.4,47.28,Indian Institute of Technology Roorkee,8.0,67.68,1.0,3.72,0.7,24.12
+2021,Indian Institute of Technology Roorkee,indian institute of technology roorkee,7.0,71.4,47.28,Indian Institute of Technology Roorkee,7.0,71.4,0.0,0.0,0.7,24.12
+2023,Indian Institute of Technology Roorkee,indian institute of technology roorkee,8.0,71.66,50.36,Indian Institute of Technology Roorkee,7.0,71.4,-1.0,0.26,0.7,21.3
+2025,Indian Institute of Technology Roorkee,indian institute of technology roorkee,7.0,71.73,51.24,Indian Institute of Technology Roorkee,8.0,71.66,1.0,0.07,0.7,20.49
+2017,Indian Institute of Technology Ropar,indian institute of technology ropar,32.0,47.84,4.07,Indian Institute of Technology Ropar,,,,,8.9,43.77
+2020,Indian Institute of Technology Ropar,indian institute of technology ropar,31.0,52.89,23.76,Indian Institute of Technology Ropar,32.0,47.84,1.0,5.05,8.9,29.13
+2021,Indian Institute of Technology Ropar,indian institute of technology ropar,31.0,52.89,23.76,Indian Institute of Technology Ropar,31.0,52.89,0.0,0.0,8.9,29.13
+2022,Indian Institute of Technology Ropar,indian institute of technology ropar,35.0,54.29,20.57,Indian Institute of Technology Ropar,31.0,52.89,-4.0,1.4,8.9,33.72
+2023,Indian Institute of Technology Ropar,indian institute of technology ropar,33.0,56.16,25.52,Indian Institute of Technology Ropar,35.0,54.29,2.0,1.87,8.9,30.64
+2025,Indian Institute of Technology Ropar,indian institute of technology ropar,56.0,54.76,18.48,Indian Institute of Technology Ropar,33.0,56.16,-23.0,-1.4,8.9,36.28
+2017,Institute of Chemical Technology,institute of chemical technology,41.0,44.95,20.69,Institute of Chemical Technology,,,,,12.12,24.26
+2018,Institute of Chemical Technology,institute of chemical technology,30.0,51.39,15.9,Institute of Chemical Technology,41.0,44.95,11.0,6.44,12.12,35.49
+2019,Institute of Chemical Technology,institute of chemical technology,27.0,52.62,20.28,Institute of Chemical Technology,30.0,51.39,3.0,1.23,12.12,32.34
+2020,Institute of Chemical Technology,institute of chemical technology,27.0,53.76,22.04,Institute of Chemical Technology,27.0,52.62,0.0,1.14,12.12,31.72
+2021,Institute of Chemical Technology,institute of chemical technology,27.0,53.76,22.04,Institute of Chemical Technology,27.0,53.76,0.0,0.0,12.12,31.72
+2022,Institute of Chemical Technology,institute of chemical technology,28.0,56.16,18.45,Institute of Chemical Technology,27.0,53.76,-1.0,2.4,12.12,37.71
+2023,Institute of Chemical Technology,institute of chemical technology,41.0,54.53,15.82,Institute of Chemical Technology,28.0,56.16,-13.0,-1.63,12.12,38.71
+2025,Institute of Chemical Technology,institute of chemical technology,64.0,53.22,16.06,Institute of Chemical Technology,41.0,54.53,-23.0,-1.31,12.12,37.16
+2025,International Institute of Information Technology Hyderabad,international institute of information technology hyderabad,89.0,49.91,19.0,International Institute of Information Technology Hyderabad,,,,,0.0,30.91
+2017,Jadavpur University,jadavpur university,12.0,57.32,28.81,Jadavpur University,,,,,1.8,28.51
+2018,Jadavpur University,jadavpur university,13.0,59.68,35.5,Jadavpur University,12.0,57.32,-1.0,2.36,1.8,24.18
+2019,Jadavpur University,jadavpur university,13.0,60.53,51.83,Jadavpur University,13.0,59.68,0.0,0.85,1.8,8.7
+2020,Jadavpur University,jadavpur university,14.0,58.93,53.3,Jadavpur University,13.0,60.53,-1.0,-1.6,1.8,5.63
+2021,Jadavpur University,jadavpur university,14.0,58.93,53.3,Jadavpur University,14.0,58.93,0.0,0.0,1.8,5.63
+2022,Jadavpur University,jadavpur university,12.0,63.85,49.53,Jadavpur University,14.0,58.93,2.0,4.92,1.8,14.32
+2023,Jadavpur University,jadavpur university,13.0,64.3,41.08,Jadavpur University,12.0,63.85,-1.0,0.45,1.8,23.22
+2025,Jadavpur University,jadavpur university,18.0,64.34,44.1,Jadavpur University,13.0,64.3,-5.0,0.04,1.8,20.24
+2017,Jagadguru Sri Shivarathreeshwara University,jagadguru sri shivarathreeshwara university,74.0,41.18,14.99,Jagadguru Sri Shivarathreeshwara University,,,,,0.0,26.19
+2017,Jamia Hamdard,jamia hamdard,42.0,44.84,1.87,Jamia Hamdard,,,,,17.36,42.97
+2018,Jamia Hamdard,jamia hamdard,37.0,50.31,2.01,Jamia Hamdard,42.0,44.84,5.0,5.47,17.36,48.3
+2019,Jamia Hamdard,jamia hamdard,31.0,51.73,6.86,Jamia Hamdard,37.0,50.31,6.0,1.42,17.36,44.87
+2020,Jamia Hamdard,jamia hamdard,64.0,46.46,8.1,Jamia Hamdard,31.0,51.73,-33.0,-5.27,17.36,38.36
+2021,Jamia Hamdard,jamia hamdard,64.0,46.46,8.1,Jamia Hamdard,64.0,46.46,0.0,0.0,17.36,38.36
+2022,Jamia Hamdard,jamia hamdard,74.0,47.5,12.18,Jamia Hamdard,64.0,46.46,-10.0,1.04,17.36,35.32
+2023,Jamia Hamdard,jamia hamdard,78.0,48.4,11.7,Jamia Hamdard,74.0,47.5,-4.0,0.9,17.36,36.7
+2025,Jamia Hamdard,jamia hamdard,74.0,52.2,16.61,Jamia Hamdard,78.0,48.4,4.0,3.8,17.36,35.59
+2017,Jamia Millia Islamia,jamia millia islamia,20.0,51.75,9.73,Jamia Millia Islamia,,,,,3.18,42.02
+2018,Jamia Millia Islamia,jamia millia islamia,19.0,56.18,11.76,Jamia Millia Islamia,20.0,51.75,1.0,4.43,3.18,44.42
+2019,Jamia Millia Islamia,jamia millia islamia,19.0,58.07,14.26,Jamia Millia Islamia,19.0,56.18,0.0,1.89,3.18,43.81
+2020,Jamia Millia Islamia,jamia millia islamia,13.0,59.54,20.25,Jamia Millia Islamia,19.0,58.07,6.0,1.47,3.18,39.29
+2021,Jamia Millia Islamia,jamia millia islamia,13.0,59.54,20.25,Jamia Millia Islamia,13.0,59.54,0.0,0.0,3.18,39.29
+2025,Jamia Millia Islamia,jamia millia islamia,13.0,66.99,29.47,Jamia Millia Islamia,13.0,59.54,0.0,7.45,3.18,37.52
+2022,"Jamia Millia Islamia, New Delhi",jamia millia islamia new delhi,13.0,63.62,23.57,"Jamia Millia Islamia, New Delhi",,,,,0.0,40.05
+2023,"Jamia Millia Islamia,New Delhi",jamia millia islamia new delhi,12.0,65.52,26.4,"Jamia Millia Islamia,New Delhi",,,,,0.0,39.12
+2022,Jawaharlal Institute of Post Graduate Medical Education & Research,jawaharlal institute of post graduate medical education research,54.0,49.71,18.81,Jawaharlal Institute of Post Graduate Medical Education & Research,,,,,6.34,30.9
+2023,Jawaharlal Institute of Post Graduate Medical Education & Research,jawaharlal institute of post graduate medical education research,39.0,55.41,20.83,Jawaharlal Institute of Post Graduate Medical Education & Research,54.0,49.71,15.0,5.7,6.34,34.58
+2025,Jawaharlal Institute of Post Graduate Medical Education & Research,jawaharlal institute of post graduate medical education research,43.0,56.23,21.27,Jawaharlal Institute of Post Graduate Medical Education & Research,39.0,55.41,-4.0,0.82,6.34,34.96
+2017,Jawaharlal Nehru Centre for Advanced Scientific Research,jawaharlal nehru centre for advanced scientific research,11.0,58.25,6.92,Jawaharlal Nehru Centre for Advanced Scientific Research,,,,,0.0,51.33
+2017,Jawaharlal Nehru University,jawaharlal nehru university,6.0,61.53,47.27,Jawaharlal Nehru University,,,,,1.56,14.26
+2018,Jawaharlal Nehru University,jawaharlal nehru university,6.0,67.57,46.28,Jawaharlal Nehru University,6.0,61.53,0.0,6.04,1.56,21.29
+2019,Jawaharlal Nehru University,jawaharlal nehru university,7.0,68.68,55.27,Jawaharlal Nehru University,6.0,67.57,-1.0,1.11,1.56,13.41
+2020,Jawaharlal Nehru University,jawaharlal nehru university,9.0,66.61,54.12,Jawaharlal Nehru University,7.0,68.68,-2.0,-2.07,1.56,12.49
+2021,Jawaharlal Nehru University,jawaharlal nehru university,9.0,66.61,54.12,Jawaharlal Nehru University,9.0,66.61,0.0,0.0,1.56,12.49
+2022,Jawaharlal Nehru University,jawaharlal nehru university,10.0,67.25,59.19,Jawaharlal Nehru University,9.0,66.61,-1.0,0.64,1.56,8.06
+2023,Jawaharlal Nehru University,jawaharlal nehru university,10.0,67.44,50.73,Jawaharlal Nehru University,10.0,67.25,0.0,0.19,1.56,16.71
+2025,Jawaharlal Nehru University,jawaharlal nehru university,9.0,69.62,54.13,Jawaharlal Nehru University,10.0,67.44,1.0,2.18,1.56,15.49
+2018,JSS Academy of Higher Education and Research,jss academy of higher education and research,59.0,45.76,6.47,JSS Academy of Higher Education and Research,,,,,6.83,39.29
+2019,JSS Academy of Higher Education and Research,jss academy of higher education and research,55.0,46.97,10.24,JSS Academy of Higher Education and Research,59.0,45.76,4.0,1.21,6.83,36.73
+2020,JSS Academy of Higher Education and Research,jss academy of higher education and research,56.0,46.95,18.85,JSS Academy of Higher Education and Research,55.0,46.97,-1.0,-0.02,6.83,28.1
+2021,JSS Academy of Higher Education and Research,jss academy of higher education and research,56.0,46.95,18.85,JSS Academy of Higher Education and Research,56.0,46.95,0.0,0.0,6.83,28.1
+2022,JSS Academy of Higher Education and Research,jss academy of higher education and research,60.0,49.31,16.97,JSS Academy of Higher Education and Research,56.0,46.95,-4.0,2.36,6.83,32.34
+2023,JSS Academy of Higher Education and Research,jss academy of higher education and research,55.0,51.15,22.05,JSS Academy of Higher Education and Research,60.0,49.31,5.0,1.84,6.83,29.1
+2025,JSS Academy of Higher Education and Research,jss academy of higher education and research,38.0,57.43,14.64,JSS Academy of Higher Education and Research,55.0,51.15,17.0,6.28,6.83,42.79
+2020,Kalasalingam Academy of Research and Education,kalasalingam academy of research and education,74.0,45.07,11.62,Kalasalingam Academy of Research and Education,,,,,12.43,33.45
+2021,Kalasalingam Academy of Research and Education,kalasalingam academy of research and education,74.0,45.07,11.62,Kalasalingam Academy of Research and Education,74.0,45.07,0.0,0.0,12.43,33.45
+2022,Kalasalingam Academy of Research and Education,kalasalingam academy of research and education,50.0,49.97,22.92,Kalasalingam Academy of Research and Education,74.0,45.07,24.0,4.9,12.43,27.05
+2023,Kalasalingam Academy of Research and Education,kalasalingam academy of research and education,48.0,52.52,18.79,Kalasalingam Academy of Research and Education,50.0,49.97,2.0,2.55,12.43,33.73
+2025,Kalasalingam Academy of Research and Education,kalasalingam academy of research and education,48.0,55.68,10.42,Kalasalingam Academy of Research and Education,48.0,52.52,0.0,3.16,12.43,45.26
+2017,Kalinga Institute of Industrial Technology,kalinga institute of industrial technology,79.0,40.47,20.95,Kalinga Institute of Industrial Technology,,,,,17.15,19.52
+2018,Kalinga Institute of Industrial Technology,kalinga institute of industrial technology,65.0,44.81,3.55,Kalinga Institute of Industrial Technology,79.0,40.47,14.0,4.34,17.15,41.26
+2019,Kalinga Institute of Industrial Technology,kalinga institute of industrial technology,50.0,47.97,14.55,Kalinga Institute of Industrial Technology,65.0,44.81,15.0,3.16,17.15,33.42
+2020,Kalinga Institute of Industrial Technology,kalinga institute of industrial technology,39.0,50.0,11.06,Kalinga Institute of Industrial Technology,50.0,47.97,11.0,2.03,17.15,38.94
+2021,Kalinga Institute of Industrial Technology,kalinga institute of industrial technology,39.0,50.0,11.06,Kalinga Institute of Industrial Technology,39.0,50.0,0.0,0.0,17.15,38.94
+2022,Kalinga Institute of Industrial Technology,kalinga institute of industrial technology,34.0,54.35,17.71,Kalinga Institute of Industrial Technology,39.0,50.0,5.0,4.35,17.15,36.64
+2023,Kalinga Institute of Industrial Technology,kalinga institute of industrial technology,29.0,57.52,14.39,Kalinga Institute of Industrial Technology,34.0,54.35,5.0,3.17,17.15,43.13
+2025,Kalinga Institute of Industrial Technology,kalinga institute of industrial technology,27.0,60.13,8.46,Kalinga Institute of Industrial Technology,29.0,57.52,2.0,2.61,17.15,51.67
+2017,Kerala University,kerala university,47.0,43.95,0.89,Kerala University,,,,,4.69,43.06
+2018,Kerala University,kerala university,47.0,47.72,7.17,Kerala University,47.0,43.95,0.0,3.77,4.69,40.55
+2019,Kerala University,kerala university,35.0,51.21,8.59,Kerala University,47.0,47.72,12.0,3.49,4.69,42.62
+2020,Kerala University,kerala university,43.0,48.87,4.91,Kerala University,35.0,51.21,-8.0,-2.34,4.69,43.96
+2021,Kerala University,kerala university,43.0,48.87,4.91,Kerala University,43.0,48.87,0.0,0.0,4.69,43.96
+2022,Kerala University,kerala university,52.0,49.87,2.21,Kerala University,43.0,48.87,-9.0,1.0,4.69,47.66
+2023,Kerala University,kerala university,47.0,52.75,8.15,Kerala University,52.0,49.87,5.0,2.88,4.69,44.6
+2025,Kerala University,kerala university,42.0,56.26,6.76,Kerala University,47.0,52.75,5.0,3.51,4.69,49.5
+2018,King George`s Medical University,king george s medical university,23.0,52.73,3.93,King George`s Medical University,,,,,19.77,48.8
+2019,King George`s Medical University,king george s medical university,42.0,49.91,5.8,King George`s Medical University,23.0,52.73,-19.0,-2.82,19.77,44.11
+2020,King George`s Medical University,king george s medical university,60.0,46.65,8.1,King George`s Medical University,42.0,49.91,-18.0,-3.26,19.77,38.55
+2021,King George`s Medical University,king george s medical university,60.0,46.65,8.1,King George`s Medical University,60.0,46.65,0.0,0.0,19.77,38.55
+2022,King George`s Medical University,king george s medical university,75.0,47.0,9.57,King George`s Medical University,60.0,46.65,-15.0,0.35,19.77,37.43
+2023,King George`s Medical University,king george s medical university,77.0,48.52,9.48,King George`s Medical University,75.0,47.0,-2.0,1.52,19.77,39.04
+2025,King George`s Medical University,king george s medical university,83.0,50.94,7.11,King George`s Medical University,77.0,48.52,-6.0,2.42,19.77,43.83
+2017,KLE Academy of Higher Education and Research,kle academy of higher education and research,100.0,37.25,0.69,KLE Academy of Higher Education and Research,,,,,7.12,36.56
+2018,KLE Academy of Higher Education and Research,kle academy of higher education and research,84.0,42.76,2.79,KLE Academy of Higher Education and Research,100.0,37.25,16.0,5.51,7.12,39.97
+2019,KLE Academy of Higher Education and Research,kle academy of higher education and research,98.0,40.92,4.33,KLE Academy of Higher Education and Research,84.0,42.76,-14.0,-1.84,7.12,36.59
+2018,Koneru Lakshmaiah Education Foundation University,koneru lakshmaiah education foundation university,83.0,42.78,0.0,Koneru Lakshmaiah Education Foundation University,,,,,0.0,42.78
+2019,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),koneru lakshmaiah education foundation university k l college of engineering,74.0,44.7,3.58,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),,,,,10.72,41.12
+2020,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),koneru lakshmaiah education foundation university k l college of engineering,69.0,45.64,2.18,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),74.0,44.7,5.0,0.94,10.72,43.46
+2021,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),koneru lakshmaiah education foundation university k l college of engineering,69.0,45.64,2.18,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),69.0,45.64,0.0,0.0,10.72,43.46
+2022,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),koneru lakshmaiah education foundation university k l college of engineering,54.0,49.71,12.6,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),69.0,45.64,15.0,4.07,10.72,37.11
+2023,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),koneru lakshmaiah education foundation university k l college of engineering,50.0,51.96,14.68,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),54.0,49.71,4.0,2.25,10.72,37.28
+2025,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),koneru lakshmaiah education foundation university k l college of engineering,46.0,55.99,3.89,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),50.0,51.96,4.0,4.03,10.72,52.1
+2017,Kurukshetra University,kurukshetra university,95.0,38.26,2.33,Kurukshetra University,,,,,0.0,35.93
+2020,Lovely Professional University,lovely professional university,81.0,43.95,20.7,Lovely Professional University,,,,,15.22,23.25
+2021,Lovely Professional University,lovely professional university,81.0,43.95,20.7,Lovely Professional University,81.0,43.95,0.0,0.0,15.22,23.25
+2022,Lovely Professional University,lovely professional university,58.0,49.54,20.57,Lovely Professional University,81.0,43.95,23.0,5.59,15.22,28.97
+2023,Lovely Professional University,lovely professional university,46.0,53.22,30.92,Lovely Professional University,58.0,49.54,12.0,3.68,15.22,22.3
+2025,Lovely Professional University,lovely professional university,49.0,55.49,23.88,Lovely Professional University,46.0,53.22,-3.0,2.27,15.22,31.61
+2025,Madan Mohan Malaviya University of Technology,madan mohan malaviya university of technology,99.0,49.11,18.48,Madan Mohan Malaviya University of Technology,,,,,0.0,30.63
+2020,Madurai Kamaraj University,madurai kamaraj university,83.0,43.75,14.35,Madurai Kamaraj University,,,,,4.53,29.4
+2021,Madurai Kamaraj University,madurai kamaraj university,83.0,43.75,14.35,Madurai Kamaraj University,83.0,43.75,0.0,0.0,4.53,29.4
+2022,Madurai Kamaraj University,madurai kamaraj university,88.0,45.77,12.6,Madurai Kamaraj University,83.0,43.75,-5.0,2.02,4.53,33.17
+2023,Madurai Kamaraj University,madurai kamaraj university,94.0,46.26,10.45,Madurai Kamaraj University,88.0,45.77,-6.0,0.49,4.53,35.81
+2018,Madurai Kamraj University,madurai kamraj university,81.0,42.98,16.18,Madurai Kamraj University,,,,,6.0,26.8
+2019,Madurai Kamraj University,madurai kamraj university,69.0,45.2,20.28,Madurai Kamraj University,81.0,42.98,12.0,2.22,6.0,24.92
+2018,Mahatma Gandhi Medical College and Research Institute,mahatma gandhi medical college and research institute,97.0,40.72,2.4,Mahatma Gandhi Medical College and Research Institute,,,,,0.0,38.32
+2018,Mahatma Gandhi University,mahatma gandhi university,52.0,46.56,6.82,Mahatma Gandhi University,,,,,1.3,39.74
+2019,Mahatma Gandhi University,mahatma gandhi university,49.0,48.08,3.58,Mahatma Gandhi University,52.0,46.56,3.0,1.52,1.3,44.5
+2020,Mahatma Gandhi University,mahatma gandhi university,52.0,47.62,4.24,Mahatma Gandhi University,49.0,48.08,-3.0,-0.46,1.3,43.38
+2021,Mahatma Gandhi University,mahatma gandhi university,52.0,47.62,4.24,Mahatma Gandhi University,52.0,47.62,0.0,0.0,1.3,43.38
+2022,"Mahatma Gandhi University, Kottayam",mahatma gandhi university kottayam,51.0,49.89,2.74,"Mahatma Gandhi University, Kottayam",,,,,12.97,47.15
+2023,"Mahatma Gandhi University, Kottayam",mahatma gandhi university kottayam,52.0,51.84,6.78,"Mahatma Gandhi University, Kottayam",51.0,49.89,-1.0,1.95,12.97,45.06
+2025,"Mahatma Gandhi University, Kottayam",mahatma gandhi university kottayam,79.0,51.73,3.89,"Mahatma Gandhi University, Kottayam",52.0,51.84,-27.0,-0.11,12.97,47.84
+2020,Malaviya National Institute of Technology,malaviya national institute of technology,72.0,45.29,5.57,Malaviya National Institute of Technology,,,,,9.45,39.72
+2021,Malaviya National Institute of Technology,malaviya national institute of technology,72.0,45.29,5.57,Malaviya National Institute of Technology,72.0,45.29,0.0,0.0,9.45,39.72
+2022,Malaviya National Institute of Technology,malaviya national institute of technology,91.0,45.27,3.78,Malaviya National Institute of Technology,72.0,45.29,-19.0,-0.02,9.45,41.49
+2023,Malaviya National Institute of Technology,malaviya national institute of technology,62.0,50.36,9.8,Malaviya National Institute of Technology,91.0,45.27,29.0,5.09,9.45,40.56
+2025,Malaviya National Institute of Technology,malaviya national institute of technology,77.0,51.88,4.99,Malaviya National Institute of Technology,62.0,50.36,-15.0,1.52,9.45,46.89
+2018,Manipal Academy of Higher Education,manipal academy of higher education,18.0,57.37,26.3,Manipal Academy of Higher Education,,,,,1.22,31.07
+2019,Manipal Academy of Higher Education,manipal academy of higher education,16.0,58.5,30.21,Manipal Academy of Higher Education,18.0,57.37,2.0,1.13,1.22,28.29
+2020,Manipal Academy of Higher Education,manipal academy of higher education,15.0,58.91,24.18,Manipal Academy of Higher Education,16.0,58.5,1.0,0.41,1.22,34.73
+2021,Manipal Academy of Higher Education,manipal academy of higher education,15.0,58.91,24.18,Manipal Academy of Higher Education,15.0,58.91,0.0,0.0,1.22,34.73
+2022,"Manipal Academy of Higher Education, Manipal",manipal academy of higher education manipal,17.0,61.23,26.37,"Manipal Academy of Higher Education, Manipal",,,,,0.0,34.86
+2017,Manipal Academy of Higher Education-Manipal,manipal academy of higher education manipal,30.0,48.27,27.67,Manipal Academy of Higher Education-Manipal,,,,,7.12,20.6
+2023,Manipal Academy of Higher Education-Manipal,manipal academy of higher education manipal,16.0,62.71,24.39,Manipal Academy of Higher Education-Manipal,30.0,48.27,14.0,14.44,7.12,38.32
+2025,Manipal Academy of Higher Education-Manipal,manipal academy of higher education manipal,14.0,66.86,20.28,Manipal Academy of Higher Education-Manipal,16.0,62.71,2.0,4.15,7.12,46.58
+2025,Manipal University Jaipur,manipal university jaipur,98.0,49.38,7.11,Manipal University Jaipur,,,,,0.0,42.27
+2017,Mizoram University,mizoram university,94.0,38.36,0.03,Mizoram University,,,,,0.0,38.33
+2020,Motilal Nehru National Institute of Technology,motilal nehru national institute of technology,88.0,43.04,11.06,Motilal Nehru National Institute of Technology,,,,,0.0,31.98
+2021,Motilal Nehru National Institute of Technology,motilal nehru national institute of technology,88.0,43.04,11.06,Motilal Nehru National Institute of Technology,88.0,43.04,0.0,0.0,0.0,31.98
+2020,Mumbai University,mumbai university,96.0,41.79,7.48,Mumbai University,,,,,5.81,34.31
+2021,Mumbai University,mumbai university,96.0,41.79,7.48,Mumbai University,96.0,41.79,0.0,0.0,5.81,34.31
+2022,Mumbai University,mumbai university,81.0,46.15,7.26,Mumbai University,96.0,41.79,15.0,4.36,5.81,38.89
+2023,Mumbai University,mumbai university,96.0,45.86,7.82,Mumbai University,81.0,46.15,-15.0,-0.29,5.81,38.04
+2025,Mumbai University,mumbai university,92.0,49.8,10.73,Mumbai University,96.0,45.86,4.0,3.94,5.81,39.07
+2017,Mysore University,mysore university,57.0,42.83,3.44,Mysore University,,,,,17.17,39.39
+2019,Mysore University,mysore university,80.0,44.06,4.7,Mysore University,57.0,42.83,-23.0,1.23,17.17,39.36
+2020,Mysore University,mysore university,34.0,50.49,6.85,Mysore University,80.0,44.06,46.0,6.43,17.17,43.64
+2021,Mysore University,mysore university,34.0,50.49,6.85,Mysore University,34.0,50.49,0.0,0.0,17.17,43.64
+2022,Mysore University,mysore university,54.0,49.71,4.8,Mysore University,34.0,50.49,-20.0,-0.78,17.17,44.91
+2023,Mysore University,mysore university,71.0,49.17,5.01,Mysore University,54.0,49.71,-17.0,-0.54,17.17,44.16
+2024,,nan,1.0,86.42,100.0,,,,,,28.7,-13.58
+2024,,nan,2.0,83.28,99.7,,1.0,86.42,-1.0,-3.14,28.7,-16.42
+2024,,nan,3.0,81.37,89.32,,2.0,83.28,-1.0,-1.91,28.7,-7.95
+2024,,nan,4.0,80.31,93.48,,3.0,81.37,-1.0,-1.06,28.7,-13.17
+2024,,nan,5.0,77.56,74.12,,4.0,80.31,-1.0,-2.75,28.7,3.44
+2024,,nan,6.0,74.77,75.24,,5.0,77.56,-1.0,-2.79,28.7,-0.47
+2024,,nan,7.0,74.27,82.97,,6.0,74.77,-1.0,-0.5,28.7,-8.7
+2024,,nan,8.0,71.52,52.89,,7.0,74.27,-1.0,-2.75,28.7,18.63
+2024,,nan,10.0,68.53,57.71,,8.0,71.52,-2.0,-2.99,28.7,10.82
+2024,,nan,11.0,67.56,50.25,,10.0,68.53,-1.0,-0.97,28.7,17.31
+2024,,nan,12.0,66.69,54.34,,11.0,67.56,-1.0,-0.87,28.7,12.35
+2024,,nan,13.0,66.0,29.78,,12.0,66.69,-1.0,-0.69,28.7,36.22
+2024,,nan,14.0,64.94,25.34,,13.0,66.0,-1.0,-1.06,28.7,39.6
+2024,,nan,15.0,64.81,43.93,,14.0,64.94,-1.0,-0.13,28.7,20.88
+2024,,nan,16.0,64.17,33.15,,15.0,64.81,-1.0,-0.64,28.7,31.02
+2024,,nan,17.0,63.84,48.2,,16.0,64.17,-1.0,-0.33,28.7,15.64
+2024,,nan,18.0,63.81,36.07,,17.0,63.84,-1.0,-0.03,28.7,27.74
+2024,,nan,19.0,62.97,39.35,,18.0,63.81,-1.0,-0.84,28.7,23.62
+2024,,nan,20.0,62.77,64.13,,19.0,62.97,-1.0,-0.2,28.7,-1.36
+2024,,nan,21.0,62.07,17.02,,20.0,62.77,-1.0,-0.7,28.7,45.05
+2024,,nan,22.0,61.79,5.79,,21.0,62.07,-1.0,-0.28,28.7,56.0
+2024,,nan,23.0,60.87,28.11,,22.0,61.79,-1.0,-0.92,28.7,32.76
+2024,,nan,24.0,60.73,37.65,,23.0,60.87,-1.0,-0.14,28.7,23.08
+2024,,nan,25.0,60.55,25.6,,24.0,60.73,-1.0,-0.18,28.7,34.95
+2024,,nan,26.0,60.25,31.61,,25.0,60.55,-1.0,-0.3,28.7,28.64
+2024,,nan,27.0,60.13,7.42,,26.0,60.25,-1.0,-0.12,28.7,52.71
+2024,,nan,28.0,59.94,13.72,,27.0,60.13,-1.0,-0.19,28.7,46.22
+2024,,nan,29.0,58.77,24.82,,28.0,59.94,-1.0,-1.17,28.7,33.95
+2024,,nan,30.0,58.69,40.09,,29.0,58.77,-1.0,-0.08,28.7,18.6
+2024,,nan,31.0,58.6,55.37,,30.0,58.69,-1.0,-0.09,28.7,3.23
+2024,,nan,32.0,58.3,24.56,,31.0,58.6,-1.0,-0.3,28.7,33.74
+2024,,nan,33.0,57.31,19.49,,32.0,58.3,-1.0,-0.99,28.7,37.82
+2024,,nan,34.0,57.04,17.02,,33.0,57.31,-1.0,-0.27,28.7,40.02
+2024,,nan,35.0,56.97,22.93,,34.0,57.04,-1.0,-0.07,28.7,34.04
+2024,,nan,36.0,55.79,15.07,,35.0,56.97,-1.0,-1.18,28.7,40.72
+2024,,nan,37.0,55.69,24.29,,36.0,55.79,-1.0,-0.1,28.7,31.4
+2024,,nan,38.0,55.61,4.52,,37.0,55.69,-1.0,-0.08,28.7,51.09
+2024,,nan,39.0,55.51,24.02,,38.0,55.61,-1.0,-0.1,28.7,31.49
+2024,,nan,40.0,55.47,16.38,,39.0,55.51,-1.0,-0.04,28.7,39.09
+2024,,nan,41.0,54.97,10.13,,40.0,55.47,-1.0,-0.5,28.7,44.84
+2024,,nan,42.0,54.86,21.53,,41.0,54.97,-1.0,-0.11,28.7,33.33
+2024,,nan,43.0,54.83,17.02,,42.0,54.86,-1.0,-0.03,28.7,37.81
+2024,,nan,44.0,54.81,18.27,,43.0,54.83,-1.0,-0.02,28.7,36.54
+2024,,nan,45.0,54.58,22.1,,44.0,54.81,-1.0,-0.23,28.7,32.48
+2024,,nan,46.0,54.44,35.25,,45.0,54.58,-1.0,-0.14,28.7,19.19
+2024,,nan,47.0,54.14,11.24,,46.0,54.44,-1.0,-0.3,28.7,42.9
+2024,,nan,48.0,54.12,14.74,,47.0,54.14,-1.0,-0.02,28.7,39.38
+2024,,nan,49.0,54.04,9.75,,48.0,54.12,-1.0,-0.08,28.7,44.29
+2024,,nan,50.0,54.02,10.5,,49.0,54.04,-1.0,-0.02,28.7,43.52
+2024,,nan,51.0,53.99,14.74,,50.0,54.02,-1.0,-0.03,28.7,39.25
+2024,,nan,52.0,53.93,17.34,,51.0,53.99,-1.0,-0.06,28.7,36.59
+2024,,nan,53.0,53.74,22.1,,52.0,53.93,-1.0,-0.19,28.7,31.64
+2024,,nan,54.0,53.66,26.88,,53.0,53.74,-1.0,-0.08,28.7,26.78
+2024,,nan,55.0,53.47,8.99,,54.0,53.66,-1.0,-0.19,28.7,44.48
+2024,,nan,56.0,53.38,23.48,,55.0,53.47,-1.0,-0.09,28.7,29.9
+2024,,nan,57.0,53.28,7.42,,56.0,53.38,-1.0,-0.1,28.7,45.86
+2024,,nan,58.0,53.26,7.82,,57.0,53.28,-1.0,-0.02,28.7,45.44
+2024,,nan,59.0,53.05,27.62,,58.0,53.26,-1.0,-0.21,28.7,25.43
+2024,,nan,60.0,52.99,29.55,,59.0,53.05,-1.0,-0.06,28.7,23.44
+2024,,nan,61.0,52.91,15.73,,60.0,52.99,-1.0,-0.08,28.7,37.18
+2024,,nan,62.0,52.83,12.32,,61.0,52.91,-1.0,-0.08,28.7,40.51
+2024,,nan,63.0,52.72,37.45,,62.0,52.83,-1.0,-0.11,28.7,15.27
+2024,,nan,64.0,52.58,18.27,,63.0,52.72,-1.0,-0.14,28.7,34.31
+2024,,nan,64.0,52.58,17.34,,64.0,52.58,0.0,0.0,28.7,35.24
+2024,,nan,66.0,52.38,29.07,,64.0,52.58,-2.0,-0.2,28.7,23.31
+2024,,nan,67.0,52.3,4.09,,66.0,52.38,-1.0,-0.08,28.7,48.21
+2024,,nan,68.0,52.24,8.99,,67.0,52.3,-1.0,-0.06,28.7,43.25
+2024,,nan,69.0,52.14,3.66,,68.0,52.24,-1.0,-0.1,28.7,48.48
+2024,,nan,70.0,52.02,10.87,,69.0,52.14,-1.0,-0.12,28.7,41.15
+2024,,nan,71.0,51.75,1.41,,70.0,52.02,-1.0,-0.27,28.7,50.34
+2024,,nan,72.0,51.68,10.87,,71.0,51.75,-1.0,-0.07,28.7,40.81
+2024,,nan,73.0,51.24,11.24,,72.0,51.68,-1.0,-0.44,28.7,40.0
+2024,,nan,74.0,51.22,13.37,,73.0,51.24,-1.0,-0.02,28.7,37.85
+2024,,nan,75.0,51.1,27.37,,74.0,51.22,-1.0,-0.12,28.7,23.73
+2024,,nan,76.0,51.07,7.82,,75.0,51.1,-1.0,-0.03,28.7,43.25
+2024,,nan,77.0,51.03,16.7,,76.0,51.07,-1.0,-0.04,28.7,34.33
+2024,,nan,78.0,50.94,6.2,,77.0,51.03,-1.0,-0.09,28.7,44.74
+2024,,nan,79.0,50.58,32.5,,78.0,50.94,-1.0,-0.36,28.7,18.08
+2024,,nan,80.0,50.55,7.82,,79.0,50.58,-1.0,-0.03,28.7,42.73
+2024,,nan,81.0,50.43,10.5,,80.0,50.55,-1.0,-0.12,28.7,39.93
+2024,,nan,82.0,50.41,10.13,,81.0,50.43,-1.0,-0.02,28.7,40.28
+2024,,nan,83.0,49.94,6.2,,82.0,50.41,-1.0,-0.47,28.7,43.74
+2024,,nan,84.0,49.59,5.37,,83.0,49.94,-1.0,-0.35,28.7,44.22
+2024,,nan,85.0,49.52,11.96,,84.0,49.59,-1.0,-0.07,28.7,37.56
+2024,,nan,86.0,49.45,7.02,,85.0,49.52,-1.0,-0.07,28.7,42.43
+2024,,nan,87.0,49.4,2.32,,86.0,49.45,-1.0,-0.05,28.7,47.08
+2024,,nan,88.0,48.98,9.37,,87.0,49.4,-1.0,-0.42,28.7,39.61
+2024,,nan,89.0,48.95,4.52,,88.0,48.98,-1.0,-0.03,28.7,44.43
+2024,,nan,90.0,48.66,39.72,,89.0,48.95,-1.0,-0.29,28.7,8.94
+2024,,nan,91.0,48.64,9.37,,90.0,48.66,-1.0,-0.02,28.7,39.27
+2024,,nan,92.0,48.55,5.37,,91.0,48.64,-1.0,-0.09,28.7,43.18
+2024,,nan,93.0,48.29,11.24,,92.0,48.55,-1.0,-0.26,28.7,37.05
+2024,,nan,94.0,48.16,4.09,,93.0,48.29,-1.0,-0.13,28.7,44.07
+2024,,nan,95.0,48.12,4.09,,94.0,48.16,-1.0,-0.04,28.7,44.03
+2024,,nan,96.0,48.1,8.21,,95.0,48.12,-1.0,-0.02,28.7,39.89
+2024,,nan,97.0,47.73,2.32,,96.0,48.1,-1.0,-0.37,28.7,45.41
+2024,,nan,98.0,47.56,11.96,,97.0,47.73,-1.0,-0.17,28.7,35.6
+2024,,nan,99.0,47.55,19.19,,98.0,47.56,-1.0,-0.01,28.7,28.36
+2024,,nan,100.0,47.43,2.32,,99.0,47.55,-1.0,-0.12,28.7,45.11
+2025,"National Institute of Mental Health & Neuro Sciences, Bangalore",national institute of mental health neuro sciences bangalore,60.0,54.28,13.48,"National Institute of Mental Health & Neuro Sciences, Bangalore",,,,,0.0,40.8
+2017,"National Institute of Pharmaceutical Education and Research, Hyderabad",national institute of pharmaceutical education and research hyderabad,58.0,42.74,3.9,"National Institute of Pharmaceutical Education and Research, Hyderabad",,,,,0.0,38.84
+2022,"National Institute of Technology, Silchar",national institute of technology silchar,76.0,46.76,6.29,"National Institute of Technology, Silchar",,,,,0.0,40.47
+2022,"National Institute of Technology, Tiruchirappalli",national institute of technology tiruchirappalli,21.0,58.95,52.2,"National Institute of Technology, Tiruchirappalli",,,,,0.0,6.75
+2023,National Institute of Technology Calicut,national institute of technology calicut,54.0,51.62,17.73,National Institute of Technology Calicut,,,,,4.5,33.89
+2025,National Institute of Technology Calicut,national institute of technology calicut,45.0,56.16,22.48,National Institute of Technology Calicut,54.0,51.62,9.0,4.54,4.5,33.68
+2019,National Institute of Technology Durgapur,national institute of technology durgapur,93.0,41.59,12.14,National Institute of Technology Durgapur,,,,,9.93,29.45
+2020,National Institute of Technology Durgapur,national institute of technology durgapur,71.0,45.36,9.9,National Institute of Technology Durgapur,93.0,41.59,22.0,3.77,9.93,35.46
+2021,National Institute of Technology Durgapur,national institute of technology durgapur,71.0,45.36,9.9,National Institute of Technology Durgapur,71.0,45.36,0.0,0.0,9.93,35.46
+2022,National Institute of Technology Durgapur,national institute of technology durgapur,72.0,47.9,14.24,National Institute of Technology Durgapur,71.0,45.36,-1.0,2.54,9.93,33.66
+2023,National Institute of Technology Durgapur,national institute of technology durgapur,90.0,46.81,10.45,National Institute of Technology Durgapur,72.0,47.9,-18.0,-1.09,9.93,36.36
+2019,National Institute of Technology Karnataka,national institute of technology karnataka,53.0,47.37,29.4,National Institute of Technology Karnataka,,,,,9.9,17.97
+2020,National Institute of Technology Karnataka,national institute of technology karnataka,32.0,52.88,30.01,National Institute of Technology Karnataka,53.0,47.37,21.0,5.51,9.9,22.87
+2021,National Institute of Technology Karnataka,national institute of technology karnataka,32.0,52.88,30.01,National Institute of Technology Karnataka,32.0,52.88,0.0,0.0,9.9,22.87
+2022,"National Institute of Technology Karnataka, Surathkal",national institute of technology karnataka surathkal,27.0,56.74,38.54,"National Institute of Technology Karnataka, Surathkal",,,,,11.09,18.2
+2023,"National Institute of Technology Karnataka, Surathkal",national institute of technology karnataka surathkal,38.0,55.47,33.2,"National Institute of Technology Karnataka, Surathkal",27.0,56.74,-11.0,-1.27,11.09,22.27
+2025,"National Institute of Technology Karnataka, Surathkal",national institute of technology karnataka surathkal,54.0,55.21,29.47,"National Institute of Technology Karnataka, Surathkal",38.0,55.47,-16.0,-0.26,11.09,25.74
+2017,National Institute of Technology Rourkela,national institute of technology rourkela,46.0,44.02,4.0,National Institute of Technology Rourkela,,,,,3.38,40.02
+2018,National Institute of Technology Rourkela,national institute of technology rourkela,42.0,48.62,9.85,National Institute of Technology Rourkela,46.0,44.02,4.0,4.6,3.38,38.77
+2019,National Institute of Technology Rourkela,national institute of technology rourkela,38.0,50.75,24.4,National Institute of Technology Rourkela,42.0,48.62,4.0,2.13,3.38,26.35
+2020,National Institute of Technology Rourkela,national institute of technology rourkela,41.0,49.27,17.89,National Institute of Technology Rourkela,38.0,50.75,-3.0,-1.48,3.38,31.38
+2021,National Institute of Technology Rourkela,national institute of technology rourkela,41.0,49.27,17.89,National Institute of Technology Rourkela,41.0,49.27,0.0,0.0,3.38,31.38
+2022,National Institute of Technology Rourkela,national institute of technology rourkela,39.0,53.77,18.08,National Institute of Technology Rourkela,41.0,49.27,2.0,4.5,3.38,35.69
+2023,National Institute of Technology Rourkela,national institute of technology rourkela,37.0,55.52,14.68,National Institute of Technology Rourkela,39.0,53.77,2.0,1.75,3.38,40.84
+2025,National Institute of Technology Rourkela,national institute of technology rourkela,34.0,58.55,15.78,National Institute of Technology Rourkela,37.0,55.52,3.0,3.03,3.38,42.77
+2020,National Institute of Technology Silchar,national institute of technology silchar,93.0,42.68,6.85,National Institute of Technology Silchar,,,,,5.17,35.83
+2021,National Institute of Technology Silchar,national institute of technology silchar,93.0,42.68,6.85,National Institute of Technology Silchar,93.0,42.68,0.0,0.0,5.17,35.83
+2023,National Institute of Technology Silchar,national institute of technology silchar,83.0,48.12,6.78,National Institute of Technology Silchar,93.0,42.68,10.0,5.44,5.17,41.34
+2025,National Institute of Technology Silchar,national institute of technology silchar,97.0,49.51,4.63,National Institute of Technology Silchar,83.0,48.12,-14.0,1.39,5.17,44.88
+2017,National Institute of Technology Surathkal,national institute of technology surathkal,65.0,41.8,20.13,National Institute of Technology Surathkal,,,,,4.0,21.67
+2018,National Institute of Technology Surathkal,national institute of technology surathkal,57.0,46.14,25.85,National Institute of Technology Surathkal,65.0,41.8,8.0,4.34,4.0,20.29
+2017,National Institute of Technology Tiruchirappalli,national institute of technology tiruchirappalli,34.0,46.57,20.92,National Institute of Technology Tiruchirappalli,,,,,4.62,25.65
+2018,National Institute of Technology Tiruchirappalli,national institute of technology tiruchirappalli,31.0,51.38,38.55,National Institute of Technology Tiruchirappalli,34.0,46.57,3.0,4.81,4.62,12.83
+2019,National Institute of Technology Tiruchirappalli,national institute of technology tiruchirappalli,24.0,54.32,50.61,National Institute of Technology Tiruchirappalli,31.0,51.38,7.0,2.94,4.62,3.71
+2020,National Institute of Technology Tiruchirappalli,national institute of technology tiruchirappalli,23.0,54.97,51.82,National Institute of Technology Tiruchirappalli,24.0,54.32,1.0,0.65,4.62,3.15
+2021,National Institute of Technology Tiruchirappalli,national institute of technology tiruchirappalli,23.0,54.97,51.82,National Institute of Technology Tiruchirappalli,23.0,54.97,0.0,0.0,4.62,3.15
+2023,National Institute of Technology Tiruchirappalli,national institute of technology tiruchirappalli,21.0,60.43,58.95,National Institute of Technology Tiruchirappalli,23.0,54.97,2.0,5.46,4.62,1.48
+2025,National Institute of Technology Tiruchirappalli,national institute of technology tiruchirappalli,30.0,60.05,56.51,National Institute of Technology Tiruchirappalli,21.0,60.43,-9.0,-0.38,4.62,3.54
+2017,National Institute of Technology Warangal,national institute of technology warangal,82.0,40.05,7.43,National Institute of Technology Warangal,,,,,11.42,32.62
+2018,National Institute of Technology Warangal,national institute of technology warangal,78.0,43.16,6.11,National Institute of Technology Warangal,82.0,40.05,4.0,3.11,11.42,37.05
+2019,National Institute of Technology Warangal,national institute of technology warangal,61.0,46.06,19.51,National Institute of Technology Warangal,78.0,43.16,17.0,2.9,11.42,26.55
+2020,National Institute of Technology Warangal,national institute of technology warangal,59.0,46.69,25.01,National Institute of Technology Warangal,61.0,46.06,2.0,0.63,11.42,21.68
+2021,National Institute of Technology Warangal,national institute of technology warangal,59.0,46.69,25.01,National Institute of Technology Warangal,59.0,46.69,0.0,0.0,11.42,21.68
+2022,National Institute of Technology Warangal,national institute of technology warangal,45.0,50.61,25.15,National Institute of Technology Warangal,59.0,46.69,14.0,3.92,11.42,25.46
+2023,National Institute of Technology Warangal,national institute of technology warangal,53.0,51.83,20.33,National Institute of Technology Warangal,45.0,50.61,-8.0,1.22,11.42,31.5
+2025,National Institute of Technology Warangal,national institute of technology warangal,63.0,53.23,23.19,National Institute of Technology Warangal,53.0,51.83,-10.0,1.4,11.42,30.04
+2019,NITTE,nitte,99.0,40.88,6.51,NITTE,,,,,0.0,34.37
+2017,North Eastern Hill University,north eastern hill university,77.0,40.51,3.24,North Eastern Hill University,,,,,10.84,37.27
+2018,North Eastern Hill University,north eastern hill university,88.0,42.34,5.03,North Eastern Hill University,77.0,40.51,-11.0,1.83,10.84,37.31
+2019,North Eastern Hill University,north eastern hill university,62.0,45.99,6.51,North Eastern Hill University,88.0,42.34,26.0,3.65,10.84,39.48
+2020,North Eastern Hill University,north eastern hill university,90.0,42.79,11.62,North Eastern Hill University,62.0,45.99,-28.0,-3.2,10.84,31.17
+2021,North Eastern Hill University,north eastern hill university,90.0,42.79,11.62,North Eastern Hill University,90.0,42.79,0.0,0.0,10.84,31.17
+2017,Osmania University,osmania university,38.0,45.52,11.16,Osmania University,,,,,9.39,34.36
+2018,Osmania University,osmania university,45.0,48.02,5.76,Osmania University,38.0,45.52,-7.0,2.5,9.39,42.26
+2019,Osmania University,osmania university,43.0,49.86,9.26,Osmania University,45.0,48.02,2.0,1.84,9.39,40.6
+2020,Osmania University,osmania university,62.0,46.57,13.82,Osmania University,43.0,49.86,-19.0,-3.29,9.39,32.75
+2021,Osmania University,osmania university,62.0,46.57,13.82,Osmania University,62.0,46.57,0.0,0.0,9.39,32.75
+2022,Osmania University,osmania university,46.0,50.6,17.71,Osmania University,62.0,46.57,16.0,4.03,9.39,32.89
+2023,Osmania University,osmania university,64.0,49.94,9.15,Osmania University,46.0,50.6,-18.0,-0.66,9.39,40.79
+2025,Osmania University,osmania university,53.0,55.24,10.1,Osmania University,64.0,49.94,11.0,5.3,9.39,45.14
+2017,Panjab University,panjab university,54.0,43.13,18.99,Panjab University,,,,,8.29,24.14
+2018,Panjab University,panjab university,33.0,50.94,23.58,Panjab University,54.0,43.13,21.0,7.81,8.29,27.36
+2019,Panjab University,panjab university,34.0,51.25,27.09,Panjab University,33.0,50.94,-1.0,0.31,8.29,24.16
+2020,Panjab University,panjab university,38.0,50.31,37.31,Panjab University,34.0,51.25,-4.0,-0.94,8.29,13.0
+2021,Panjab University,panjab university,38.0,50.31,37.31,Panjab University,38.0,50.31,0.0,0.0,8.29,13.0
+2022,Panjab University,panjab university,41.0,51.23,27.56,Panjab University,38.0,50.31,-3.0,0.92,8.29,23.67
+2023,Panjab University,panjab university,44.0,53.31,28.52,Panjab University,41.0,51.23,-3.0,2.08,8.29,24.79
+2025,Panjab University,panjab university,57.0,54.65,25.46,Panjab University,44.0,53.31,-13.0,1.34,8.29,29.19
+2024,PERCEPTION (100),perception 100,9.0,69.04,43.43,PERCEPTION (100),,,,,0.0,25.61
+2019,Periyar University,periyar university,97.0,40.99,19.25,Periyar University,,,,,0.0,21.74
+2017,Pondicherry University,pondicherry university,59.0,42.7,4.67,Pondicherry University,,,,,11.16,38.03
+2018,Pondicherry University,pondicherry university,86.0,42.36,14.76,Pondicherry University,59.0,42.7,-27.0,-0.34,11.16,27.6
+2019,Pondicherry University,pondicherry university,72.0,44.88,19.25,Pondicherry University,86.0,42.36,14.0,2.52,11.16,25.63
+2020,Pondicherry University,pondicherry university,87.0,43.1,17.89,Pondicherry University,72.0,44.88,-15.0,-1.78,11.16,25.21
+2021,Pondicherry University,pondicherry university,87.0,43.1,17.89,Pondicherry University,87.0,43.1,0.0,0.0,11.16,25.21
+2025,Post Graduate Institute of Medical Education and Research,post graduate institute of medical education and research,33.0,59.15,26.56,Post Graduate Institute of Medical Education and Research,,,,,0.0,32.59
+2017,PSG College of Technology,psg college of technology,88.0,39.07,25.48,PSG College of Technology,,,,,9.03,13.59
+2018,PSG College of Technology,psg college of technology,64.0,44.94,38.71,PSG College of Technology,88.0,39.07,24.0,5.87,9.03,6.23
+2019,PSG College of Technology,psg college of technology,76.0,44.46,43.66,PSG College of Technology,64.0,44.94,-12.0,-0.48,9.03,0.8
+2020,PSG College of Technology,psg college of technology,86.0,43.14,43.26,PSG College of Technology,76.0,44.46,-10.0,-1.32,9.03,-0.12
+2021,PSG College of Technology,psg college of technology,86.0,43.14,43.26,PSG College of Technology,86.0,43.14,0.0,0.0,9.03,-0.12
+2018,PSG Institute of Medical Sciences & Research,psg institute of medical sciences research,75.0,43.24,10.5,PSG Institute of Medical Sciences & Research,,,,,0.0,32.74
+2018,Punjab Agricultural University,punjab agricultural university,60.0,45.56,5.4,Punjab Agricultural University,,,,,8.83,40.16
+2019,Punjab Agricultural University,punjab agricultural university,75.0,44.66,3.19,Punjab Agricultural University,60.0,45.56,-15.0,-0.9,8.83,41.47
+2025,Punjab Agricultural University,punjab agricultural university,81.0,51.03,6.42,Punjab Agricultural University,75.0,44.66,-6.0,6.37,8.83,44.61
+2017,"Punjab Agricultural University, Ludhiana",punjab agricultural university ludhiana,40.0,44.99,3.83,"Punjab Agricultural University, Ludhiana",,,,,17.0,41.16
+2023,"Punjab Agricultural University, Ludhiana",punjab agricultural university ludhiana,74.0,48.97,7.82,"Punjab Agricultural University, Ludhiana",40.0,44.99,-34.0,3.98,17.0,41.15
+2017,Rajiv Gandhi Indian Institute of Management,rajiv gandhi indian institute of management,99.0,37.28,0.57,Rajiv Gandhi Indian Institute of Management,,,,,0.0,36.71
+2020,S.R.M. Institute of Science and Technology,s r m institute of science and technology,53.0,47.3,10.48,S.R.M. Institute of Science and Technology,,,,,12.16,36.82
+2021,S.R.M. Institute of Science and Technology,s r m institute of science and technology,53.0,47.3,10.48,S.R.M. Institute of Science and Technology,53.0,47.3,0.0,0.0,12.16,36.82
+2022,S.R.M. Institute of Science and Technology,s r m institute of science and technology,36.0,53.99,25.15,S.R.M. Institute of Science and Technology,53.0,47.3,17.0,6.69,12.16,28.84
+2023,S.R.M. Institute of Science and Technology,s r m institute of science and technology,32.0,56.44,23.94,S.R.M. Institute of Science and Technology,36.0,53.99,4.0,2.45,12.16,32.5
+2025,S.R.M. Institute of Science and Technology,s r m institute of science and technology,22.0,62.87,20.28,S.R.M. Institute of Science and Technology,32.0,56.44,10.0,6.43,12.16,42.59
+2017,S.R.M Institute of Science and Technology,s r m institute of science and technology,55.0,43.07,10.8,S.R.M Institute of Science and Technology,,,,,0.0,32.27
+2020,Sardar Vallabhbhai National Institute of Technology,sardar vallabhbhai national institute of technology,98.0,41.72,7.48,Sardar Vallabhbhai National Institute of Technology,,,,,0.0,34.24
+2021,Sardar Vallabhbhai National Institute of Technology,sardar vallabhbhai national institute of technology,98.0,41.72,7.48,Sardar Vallabhbhai National Institute of Technology,98.0,41.72,0.0,0.0,0.0,34.24
+2017,Sathyabama Institute of Science and Technology,sathyabama institute of science and technology,72.0,41.3,11.08,Sathyabama Institute of Science and Technology,,,,,10.77,30.22
+2018,Sathyabama Institute of Science and Technology,sathyabama institute of science and technology,68.0,44.34,4.3,Sathyabama Institute of Science and Technology,72.0,41.3,4.0,3.04,10.77,40.04
+2019,Sathyabama Institute of Science and Technology,sathyabama institute of science and technology,64.0,45.58,2.41,Sathyabama Institute of Science and Technology,68.0,44.34,4.0,1.24,10.77,43.17
+2020,Sathyabama Institute of Science and Technology,sathyabama institute of science and technology,61.0,46.6,7.48,Sathyabama Institute of Science and Technology,64.0,45.58,3.0,1.02,10.77,39.12
+2021,Sathyabama Institute of Science and Technology,sathyabama institute of science and technology,61.0,46.6,7.48,Sathyabama Institute of Science and Technology,61.0,46.6,0.0,0.0,10.77,39.12
+2022,Sathyabama Institute of Science and Technology,sathyabama institute of science and technology,67.0,48.09,23.57,Sathyabama Institute of Science and Technology,61.0,46.6,-6.0,1.49,10.77,24.52
+2023,Sathyabama Institute of Science and Technology,sathyabama institute of science and technology,84.0,47.95,16.38,Sathyabama Institute of Science and Technology,67.0,48.09,-17.0,-0.14,10.77,31.57
+2025,Sathyabama Institute of Science and Technology,sathyabama institute of science and technology,93.0,49.79,9.13,Sathyabama Institute of Science and Technology,84.0,47.95,-9.0,1.84,10.77,40.66
+2017,Saveetha Institute of Medical and Technical Sciences,saveetha institute of medical and technical sciences,91.0,38.68,5.81,Saveetha Institute of Medical and Technical Sciences,,,,,21.26,32.87
+2018,Saveetha Institute of Medical and Technical Sciences,saveetha institute of medical and technical sciences,70.0,44.0,3.17,Saveetha Institute of Medical and Technical Sciences,91.0,38.68,21.0,5.32,21.26,40.83
+2019,Saveetha Institute of Medical and Technical Sciences,saveetha institute of medical and technical sciences,67.0,45.42,0.0,Saveetha Institute of Medical and Technical Sciences,70.0,44.0,3.0,1.42,21.26,45.42
+2020,Saveetha Institute of Medical and Technical Sciences,saveetha institute of medical and technical sciences,49.0,48.63,2.18,Saveetha Institute of Medical and Technical Sciences,67.0,45.42,18.0,3.21,21.26,46.45
+2021,Saveetha Institute of Medical and Technical Sciences,saveetha institute of medical and technical sciences,49.0,48.63,2.18,Saveetha Institute of Medical and Technical Sciences,49.0,48.63,0.0,0.0,21.26,46.45
+2022,Saveetha Institute of Medical and Technical Sciences,saveetha institute of medical and technical sciences,44.0,50.81,5.31,Saveetha Institute of Medical and Technical Sciences,49.0,48.63,5.0,2.18,21.26,45.5
+2023,Saveetha Institute of Medical and Technical Sciences,saveetha institute of medical and technical sciences,27.0,58.14,5.37,Saveetha Institute of Medical and Technical Sciences,44.0,50.81,17.0,7.33,21.26,52.77
+2025,Saveetha Institute of Medical and Technical Sciences,saveetha institute of medical and technical sciences,23.0,62.23,6.42,Saveetha Institute of Medical and Technical Sciences,27.0,58.14,4.0,4.09,21.26,55.81
+2017,Savitribai Phule Pune University,savitribai phule pune university,18.0,52.81,11.2,Savitribai Phule Pune University,,,,,23.66,41.61
+2018,Savitribai Phule Pune University,savitribai phule pune university,16.0,58.24,15.04,Savitribai Phule Pune University,18.0,52.81,2.0,5.43,23.66,43.2
+2019,Savitribai Phule Pune University,savitribai phule pune university,17.0,58.4,16.55,Savitribai Phule Pune University,16.0,58.24,-1.0,0.16,23.66,41.85
+2020,Savitribai Phule Pune University,savitribai phule pune university,20.0,55.83,16.41,Savitribai Phule Pune University,17.0,58.4,-3.0,-2.57,23.66,39.42
+2021,Savitribai Phule Pune University,savitribai phule pune university,20.0,55.83,16.41,Savitribai Phule Pune University,20.0,55.83,0.0,0.0,23.66,39.42
+2022,Savitribai Phule Pune University,savitribai phule pune university,25.0,56.99,16.97,Savitribai Phule Pune University,20.0,55.83,-5.0,1.16,23.66,40.02
+2023,Savitribai Phule Pune University,savitribai phule pune university,35.0,55.78,15.82,Savitribai Phule Pune University,25.0,56.99,-10.0,-1.21,23.66,39.96
+2025,Savitribai Phule Pune University,savitribai phule pune university,91.0,49.83,16.61,Savitribai Phule Pune University,35.0,55.78,-56.0,-5.95,23.66,33.22
+2018,Shanmugha Arts Science Technology & Research Academy,shanmugha arts science technology research academy,54.0,46.33,11.45,Shanmugha Arts Science Technology & Research Academy,,,,,6.72,34.88
+2019,Shanmugha Arts Science Technology & Research Academy,shanmugha arts science technology research academy,63.0,45.8,6.86,Shanmugha Arts Science Technology & Research Academy,54.0,46.33,-9.0,-0.53,6.72,38.94
+2020,Shanmugha Arts Science Technology & Research Academy,shanmugha arts science technology research academy,42.0,49.15,10.48,Shanmugha Arts Science Technology & Research Academy,63.0,45.8,21.0,3.35,6.72,38.67
+2021,Shanmugha Arts Science Technology & Research Academy,shanmugha arts science technology research academy,42.0,49.15,10.48,Shanmugha Arts Science Technology & Research Academy,42.0,49.15,0.0,0.0,6.72,38.67
+2022,Shanmugha Arts Science Technology & Research Academy,shanmugha arts science technology research academy,49.0,50.33,9.57,Shanmugha Arts Science Technology & Research Academy,42.0,49.15,-7.0,1.18,6.72,40.76
+2023,Shanmugha Arts Science Technology & Research Academy,shanmugha arts science technology research academy,49.0,52.0,9.48,Shanmugha Arts Science Technology & Research Academy,49.0,50.33,0.0,1.67,6.72,42.52
+2025,Shanmugha Arts Science Technology & Research Academy,shanmugha arts science technology research academy,51.0,55.32,8.46,Shanmugha Arts Science Technology & Research Academy,49.0,52.0,-2.0,3.32,6.72,46.86
+2017,Shanmugha Arts Science Technology & Research Academy (SASTRA),shanmugha arts science technology research academy sastra,50.0,43.5,11.1,Shanmugha Arts Science Technology & Research Academy (SASTRA),,,,,0.0,32.4
+2025,Sher-e-Kashmir University of Agricultural Science and Technology of Kashmir,sher e kashmir university of agricultural science and technology of kashmir,94.0,49.75,1.6,Sher-e-Kashmir University of Agricultural Science and Technology of Kashmir,,,,,0.0,48.15
+2017,Shiv Nadar University,shiv nadar university,96.0,37.95,5.24,Shiv Nadar University,,,,,8.15,32.71
+2018,Shiv Nadar University,shiv nadar university,72.0,43.68,0.0,Shiv Nadar University,96.0,37.95,24.0,5.73,8.15,43.68
+2019,Shiv Nadar University,shiv nadar university,77.0,44.45,6.15,Shiv Nadar University,72.0,43.68,-5.0,0.77,8.15,38.3
+2020,Shiv Nadar University,shiv nadar university,84.0,43.6,13.28,Shiv Nadar University,77.0,44.45,-7.0,-0.85,8.15,30.32
+2021,Shiv Nadar University,shiv nadar university,84.0,43.6,13.28,Shiv Nadar University,84.0,43.6,0.0,0.0,8.15,30.32
+2022,Shiv Nadar University,shiv nadar university,94.0,44.94,5.8,Shiv Nadar University,84.0,43.6,-10.0,1.34,8.15,39.14
+2023,Shiv Nadar University,shiv nadar university,95.0,46.18,9.48,Shiv Nadar University,94.0,44.94,-1.0,1.24,8.15,36.7
+2025,Shiv Nadar University,shiv nadar university,85.0,50.8,13.78,Shiv Nadar University,95.0,46.18,10.0,4.62,8.15,37.02
+2018,Siksha `O` Anusandhan,siksha o anusandhan,38.0,49.59,7.17,Siksha `O` Anusandhan,,,,,5.88,42.42
+2019,Siksha `O` Anusandhan,siksha o anusandhan,41.0,50.31,20.02,Siksha `O` Anusandhan,38.0,49.59,-3.0,0.72,5.88,30.29
+2020,Siksha `O` Anusandhan,siksha o anusandhan,37.0,50.34,13.28,Siksha `O` Anusandhan,41.0,50.31,4.0,0.03,5.88,37.06
+2021,Siksha `O` Anusandhan,siksha o anusandhan,37.0,50.34,13.28,Siksha `O` Anusandhan,37.0,50.34,0.0,0.0,5.88,37.06
+2022,Siksha `O` Anusandhan,siksha o anusandhan,30.0,55.42,27.26,Siksha `O` Anusandhan,37.0,50.34,7.0,5.08,5.88,28.16
+2023,Siksha `O` Anusandhan,siksha o anusandhan,26.0,58.35,34.11,Siksha `O` Anusandhan,30.0,55.42,4.0,2.93,5.88,24.24
+2025,Siksha `O` Anusandhan,siksha o anusandhan,25.0,61.01,28.87,Siksha `O` Anusandhan,26.0,58.35,1.0,2.66,5.88,32.14
+2017,Siksha`O` Anusandhan University,siksha o anusandhan university,33.0,46.72,15.57,Siksha`O` Anusandhan University,,,,,0.0,31.15
+2019,Sri Ramachandra Institute of Higher Education and Research,sri ramachandra institute of higher education and research,54.0,47.34,6.15,Sri Ramachandra Institute of Higher Education and Research,,,,,14.15,41.19
+2020,Sri Ramachandra Institute of Higher Education and Research,sri ramachandra institute of higher education and research,79.0,44.4,7.48,Sri Ramachandra Institute of Higher Education and Research,54.0,47.34,-25.0,-2.94,14.15,36.92
+2021,Sri Ramachandra Institute of Higher Education and Research,sri ramachandra institute of higher education and research,79.0,44.4,7.48,Sri Ramachandra Institute of Higher Education and Research,79.0,44.4,0.0,0.0,14.15,36.92
+2022,Sri Ramachandra Institute of Higher Education and Research,sri ramachandra institute of higher education and research,83.0,46.08,6.78,Sri Ramachandra Institute of Higher Education and Research,79.0,44.4,-4.0,1.68,14.15,39.3
+2023,Sri Ramachandra Institute of Higher Education and Research,sri ramachandra institute of higher education and research,98.0,45.84,7.82,Sri Ramachandra Institute of Higher Education and Research,83.0,46.08,-15.0,-0.24,14.15,38.02
+2018,Sri Ramachandra Medical College and Research Institute,sri ramachandra medical college and research institute,62.0,45.29,5.76,Sri Ramachandra Medical College and Research Institute,,,,,0.0,39.53
+2017,Sri Ramachandra University,sri ramachandra university,61.0,42.46,8.86,Sri Ramachandra University,,,,,0.0,33.6
+2018,Sri Sivasubramaniya Nadar College of Engineering,sri sivasubramaniya nadar college of engineering,73.0,43.6,10.82,Sri Sivasubramaniya Nadar College of Engineering,,,,,7.28,32.78
+2019,Sri Sivasubramaniya Nadar College of Engineering,sri sivasubramaniya nadar college of engineering,78.0,44.35,7.56,Sri Sivasubramaniya Nadar College of Engineering,73.0,43.6,-5.0,0.75,7.28,36.79
+2020,Sri Sivasubramaniya Nadar College of Engineering,sri sivasubramaniya nadar college of engineering,89.0,42.94,9.9,Sri Sivasubramaniya Nadar College of Engineering,78.0,44.35,-11.0,-1.41,7.28,33.04
+2021,Sri Sivasubramaniya Nadar College of Engineering,sri sivasubramaniya nadar college of engineering,89.0,42.94,9.9,Sri Sivasubramaniya Nadar College of Engineering,89.0,42.94,0.0,0.0,7.28,33.04
+2022,Sri Sivasubramaniya Nadar College of Engineering,sri sivasubramaniya nadar college of engineering,96.0,44.69,15.04,Sri Sivasubramaniya Nadar College of Engineering,89.0,42.94,-7.0,1.75,7.28,29.65
+2023,Sri Sivasubramaniya Nadar College of Engineering,sri sivasubramaniya nadar college of engineering,80.0,48.18,8.49,Sri Sivasubramaniya Nadar College of Engineering,96.0,44.69,16.0,3.49,7.28,39.69
+2025,Sri Sivasubramaniya Nadar College of Engineering,sri sivasubramaniya nadar college of engineering,82.0,51.01,11.05,Sri Sivasubramaniya Nadar College of Engineering,80.0,48.18,-2.0,2.83,7.28,39.96
+2017,Sri Sivasubrmaniya Nadar College of Engineering,sri sivasubrmaniya nadar college of engineering,80.0,40.31,13.86,Sri Sivasubrmaniya Nadar College of Engineering,,,,,0.0,26.45
+2018,Sri Venkateswara Institute of Medical Sciences,sri venkateswara institute of medical sciences,89.0,42.33,0.41,Sri Venkateswara Institute of Medical Sciences,,,,,0.0,41.92
+2017,Sri Venkateswara University,sri venkateswara university,68.0,41.48,1.94,Sri Venkateswara University,,,,,10.31,39.54
+2018,Sri Venkateswara University,sri venkateswara university,74.0,43.44,2.01,Sri Venkateswara University,68.0,41.48,-6.0,1.96,10.31,41.43
+2019,Sri Venkateswara University,sri venkateswara university,72.0,44.88,6.51,Sri Venkateswara University,74.0,43.44,2.0,1.44,10.31,38.37
+2020,Sri Venkateswara University,sri venkateswara university,92.0,42.78,5.57,Sri Venkateswara University,72.0,44.88,-20.0,-2.1,10.31,37.21
+2021,Sri Venkateswara University,sri venkateswara university,92.0,42.78,5.57,Sri Venkateswara University,92.0,42.78,0.0,0.0,10.31,37.21
+2018,SRM Institute of Science and Technology,srm institute of science and technology,63.0,45.17,8.53,SRM Institute of Science and Technology,,,,,5.5,36.64
+2019,SRM Institute of Science and Technology,srm institute of science and technology,52.0,47.8,14.26,SRM Institute of Science and Technology,63.0,45.17,11.0,2.63,5.5,33.54
+2018,SVKM`s Narsee Monjee Institute of Management Studies,svkm s narsee monjee institute of management studies,82.0,42.8,0.81,SVKM`s Narsee Monjee Institute of Management Studies,,,,,4.95,41.99
+2019,SVKM`s Narsee Monjee Institute of Management Studies,svkm s narsee monjee institute of management studies,83.0,43.63,1.22,SVKM`s Narsee Monjee Institute of Management Studies,82.0,42.8,-1.0,0.83,4.95,42.41
+2020,SVKM`s Narsee Monjee Institute of Management Studies,svkm s narsee monjee institute of management studies,94.0,42.56,4.24,SVKM`s Narsee Monjee Institute of Management Studies,83.0,43.63,-11.0,-1.07,4.95,38.32
+2021,SVKM`s Narsee Monjee Institute of Management Studies,svkm s narsee monjee institute of management studies,94.0,42.56,4.24,SVKM`s Narsee Monjee Institute of Management Studies,94.0,42.56,0.0,0.0,4.95,38.32
+2022,SVKM`s Narsee Monjee Institute of Management Studies,svkm s narsee monjee institute of management studies,89.0,45.68,7.26,SVKM`s Narsee Monjee Institute of Management Studies,94.0,42.56,5.0,3.12,4.95,38.42
+2023,SVKM`s Narsee Monjee Institute of Management Studies,svkm s narsee monjee institute of management studies,88.0,47.46,5.01,SVKM`s Narsee Monjee Institute of Management Studies,89.0,45.68,1.0,1.78,4.95,42.45
+2025,SVKM`s Narsee Monjee Institute of Management Studies,svkm s narsee monjee institute of management studies,95.0,49.66,3.89,SVKM`s Narsee Monjee Institute of Management Studies,88.0,47.46,-7.0,2.2,4.95,45.77
+2018,Symbiosis International,symbiosis international,67.0,44.62,6.11,Symbiosis International,,,,,11.77,38.51
+2019,Symbiosis International,symbiosis international,82.0,43.65,3.19,Symbiosis International,67.0,44.62,-15.0,-0.97,11.77,40.46
+2020,Symbiosis International,symbiosis international,68.0,45.65,14.35,Symbiosis International,82.0,43.65,14.0,2.0,11.77,31.3
+2021,Symbiosis International,symbiosis international,68.0,45.65,14.35,Symbiosis International,68.0,45.65,0.0,0.0,11.77,31.3
+2022,Symbiosis International,symbiosis international,62.0,49.22,25.46,Symbiosis International,68.0,45.65,6.0,3.57,11.77,23.76
+2023,Symbiosis International,symbiosis international,59.0,50.59,15.54,Symbiosis International,62.0,49.22,3.0,1.37,11.77,35.05
+2025,Symbiosis International,symbiosis international,40.0,56.86,23.19,Symbiosis International,59.0,50.59,19.0,6.27,11.77,33.67
+2017,Symbiosis International University,symbiosis international university,97.0,37.67,14.31,Symbiosis International University,,,,,0.0,23.36
+2017,Tamil Nadu Agricultural University,tamil nadu agricultural university,28.0,48.84,3.53,Tamil Nadu Agricultural University,,,,,25.7,45.31
+2018,Tamil Nadu Agricultural University,tamil nadu agricultural university,40.0,49.22,12.07,Tamil Nadu Agricultural University,28.0,48.84,-12.0,0.38,25.7,37.15
+2019,Tamil Nadu Agricultural University,tamil nadu agricultural university,68.0,45.41,11.52,Tamil Nadu Agricultural University,40.0,49.22,-28.0,-3.81,25.7,33.89
+2023,Tamil Nadu Agricultural University,tamil nadu agricultural university,93.0,46.33,10.45,Tamil Nadu Agricultural University,68.0,45.41,-25.0,0.92,25.7,35.88
+2025,Tamil Nadu Agricultural University,tamil nadu agricultural university,88.0,50.03,7.45,Tamil Nadu Agricultural University,93.0,46.33,5.0,3.7,25.7,42.58
+2017,Tamil Nadu Veterinary & Animal Sciences University,tamil nadu veterinary animal sciences university,60.0,42.48,0.67,Tamil Nadu Veterinary & Animal Sciences University,,,,,16.98,41.81
+2018,Tamil Nadu Veterinary & Animal Sciences University,tamil nadu veterinary animal sciences university,92.0,41.73,3.93,Tamil Nadu Veterinary & Animal Sciences University,60.0,42.48,-32.0,-0.75,16.98,37.8
+2019,Tamil Nadu Veterinary & Animal Sciences University,tamil nadu veterinary animal sciences university,99.0,40.88,2.02,Tamil Nadu Veterinary & Animal Sciences University,92.0,41.73,-7.0,-0.85,16.98,38.86
+2017,TATA Institute of Social Sciences,tata institute of social sciences,49.0,43.71,23.31,TATA Institute of Social Sciences,,,,,17.31,20.4
+2018,Tata Institute of Social Sciences,tata institute of social sciences,49.0,47.46,10.18,Tata Institute of Social Sciences,49.0,43.71,0.0,3.75,17.31,37.28
+2019,Tata Institute of Social Sciences,tata institute of social sciences,56.0,46.82,12.14,Tata Institute of Social Sciences,49.0,47.46,-7.0,-0.64,17.31,34.68
+2020,Tata Institute of Social Sciences,tata institute of social sciences,70.0,45.63,8.71,Tata Institute of Social Sciences,56.0,46.82,-14.0,-1.19,17.31,36.92
+2021,Tata Institute of Social Sciences,tata institute of social sciences,70.0,45.63,8.71,Tata Institute of Social Sciences,70.0,45.63,0.0,0.0,17.31,36.92
+2022,Tata Institute of Social Sciences,tata institute of social sciences,99.0,44.52,11.75,Tata Institute of Social Sciences,70.0,45.63,-29.0,-1.11,17.31,32.77
+2017,Tezpur University,tezpur university,48.0,43.78,7.09,Tezpur University,,,,,16.67,36.69
+2018,Tezpur University,tezpur university,46.0,48.0,10.82,Tezpur University,48.0,43.78,2.0,4.22,16.67,37.18
+2019,Tezpur University,tezpur university,48.0,48.47,15.71,Tezpur University,46.0,48.0,-2.0,0.47,16.67,32.76
+2020,Tezpur University,tezpur university,73.0,45.22,11.62,Tezpur University,48.0,48.47,-25.0,-3.25,16.67,33.6
+2021,Tezpur University,tezpur university,73.0,45.22,11.62,Tezpur University,73.0,45.22,0.0,0.0,16.67,33.6
+2022,Tezpur University,tezpur university,90.0,45.59,16.97,Tezpur University,73.0,45.22,-17.0,0.37,16.67,28.62
+2018,Thapar Institute of Engineering and Technology,thapar institute of engineering and technology,50.0,47.11,3.55,Thapar Institute of Engineering and Technology,,,,,4.92,43.56
+2020,Thapar Institute of Engineering and Technology,thapar institute of engineering and technology,45.0,48.83,19.32,Thapar Institute of Engineering and Technology,50.0,47.11,5.0,1.72,4.92,29.51
+2021,Thapar Institute of Engineering and Technology,thapar institute of engineering and technology,45.0,48.83,19.32,Thapar Institute of Engineering and Technology,45.0,48.83,0.0,0.0,4.92,29.51
+2022,Thapar Institute of Engineering and Technology,thapar institute of engineering and technology,57.0,49.65,16.21,Thapar Institute of Engineering and Technology,45.0,48.83,-12.0,0.82,4.92,33.44
+2019,Thapar Institute of Engineering and Technology (Deemed-to-be-university),thapar institute of engineering and technology deemed to be university,45.0,49.27,10.24,Thapar Institute of Engineering and Technology (Deemed-to-be-university),,,,,2.16,39.03
+2023,Thapar Institute of Engineering and Technology (Deemed-to-be-university),thapar institute of engineering and technology deemed to be university,40.0,55.17,8.15,Thapar Institute of Engineering and Technology (Deemed-to-be-university),45.0,49.27,5.0,5.9,2.16,47.02
+2025,Thapar Institute of Engineering and Technology (Deemed-to-be-university),thapar institute of engineering and technology deemed to be university,44.0,56.21,11.36,Thapar Institute of Engineering and Technology (Deemed-to-be-university),40.0,55.17,-4.0,1.04,2.16,44.85
+2017,Thapar University,thapar university,75.0,40.78,13.17,Thapar University,,,,,0.0,27.61
+2018,Thiagarajar College of Engineering,thiagarajar college of engineering,95.0,41.41,14.46,Thiagarajar College of Engineering,,,,,0.0,26.95
+2018,University of Agricultural Sciences,university of agricultural sciences,85.0,42.55,1.22,University of Agricultural Sciences,,,,,0.0,41.33
+2017,University of Delhi,university of delhi,15.0,55.37,30.76,University of Delhi,,,,,3.16,24.61
+2018,University of Delhi,university of delhi,14.0,58.69,33.15,University of Delhi,15.0,55.37,1.0,3.32,3.16,25.54
+2019,University of Delhi,university of delhi,20.0,57.59,41.11,University of Delhi,14.0,58.69,-6.0,-1.1,3.16,16.48
+2020,University of Delhi,university of delhi,19.0,56.03,44.81,University of Delhi,20.0,57.59,1.0,-1.56,3.16,11.22
+2021,University of Delhi,university of delhi,19.0,56.03,44.81,University of Delhi,19.0,56.03,0.0,0.0,3.16,11.22
+2022,University of Delhi,university of delhi,23.0,57.63,45.93,University of Delhi,19.0,56.03,-4.0,1.6,3.16,11.7
+2023,University of Delhi,university of delhi,22.0,60.24,39.84,University of Delhi,23.0,57.63,1.0,2.61,3.16,20.4
+2025,University of Delhi,university of delhi,15.0,66.19,40.55,University of Delhi,22.0,60.24,7.0,5.95,3.16,25.64
+2017,University of Hyderabad,university of hyderabad,14.0,56.3,27.06,University of Hyderabad,,,,,4.74,29.24
+2018,University of Hyderabad,university of hyderabad,11.0,60.54,21.66,University of Hyderabad,14.0,56.3,3.0,4.24,4.74,38.88
+2019,University of Hyderabad,university of hyderabad,11.0,61.85,36.71,University of Hyderabad,11.0,60.54,0.0,1.31,4.74,25.14
+2020,University of Hyderabad,university of hyderabad,17.0,57.67,32.13,University of Hyderabad,11.0,61.85,-6.0,-4.18,4.74,25.54
+2021,University of Hyderabad,university of hyderabad,17.0,57.67,32.13,University of Hyderabad,17.0,57.67,0.0,0.0,4.74,25.54
+2022,University of Hyderabad,university of hyderabad,20.0,59.67,31.99,University of Hyderabad,17.0,57.67,-3.0,2.0,4.74,27.68
+2023,University of Hyderabad,university of hyderabad,20.0,60.49,26.83,University of Hyderabad,20.0,59.67,0.0,0.82,4.74,33.66
+2025,University of Hyderabad,university of hyderabad,26.0,60.32,29.68,University of Hyderabad,20.0,60.49,-6.0,-0.17,4.74,30.64
+2018,University of Jammu,university of jammu,77.0,43.19,1.22,University of Jammu,,,,,6.6,41.97
+2022,University of Jammu,university of jammu,93.0,45.11,2.74,University of Jammu,77.0,43.19,-16.0,1.92,6.6,42.37
+2025,University of Jammu,university of jammu,87.0,50.11,3.52,University of Jammu,93.0,45.11,6.0,5.0,6.6,46.59
+2018,University of Kashmir,university of kashmir,71.0,43.96,0.0,University of Kashmir,,,,,9.19,43.96
+2019,University of Kashmir,university of kashmir,79.0,44.19,1.63,University of Kashmir,71.0,43.96,-8.0,0.23,9.19,42.56
+2020,University of Kashmir,university of kashmir,76.0,44.64,2.18,University of Kashmir,79.0,44.19,3.0,0.45,9.19,42.46
+2021,University of Kashmir,university of kashmir,76.0,44.64,2.18,University of Kashmir,76.0,44.64,0.0,0.0,9.19,42.46
+2022,University of Kashmir,university of kashmir,84.0,45.98,3.78,University of Kashmir,76.0,44.64,-8.0,1.34,9.19,42.2
+2023,University of Kashmir,university of kashmir,58.0,50.77,2.77,University of Kashmir,84.0,45.98,26.0,4.79,9.19,48.0
+2025,University of Kashmir,university of kashmir,59.0,54.31,6.07,University of Kashmir,58.0,50.77,-1.0,3.54,9.19,48.24
+2017,University of Madras,university of madras,64.0,41.85,10.82,University of Madras,,,,,15.11,31.03
+2018,University of Madras,university of madras,29.0,51.52,26.52,University of Madras,64.0,41.85,35.0,9.67,15.11,25.0
+2019,University of Madras,university of madras,33.0,51.34,30.01,University of Madras,29.0,51.52,-4.0,-0.18,15.11,21.33
+2020,University of Madras,university of madras,47.0,48.66,20.25,University of Madras,33.0,51.34,-14.0,-2.68,15.11,28.41
+2021,University of Madras,university of madras,47.0,48.66,20.25,University of Madras,47.0,48.66,0.0,0.0,15.11,28.41
+2022,University of Madras,university of madras,70.0,48.01,18.45,University of Madras,47.0,48.66,-23.0,-0.65,15.11,29.56
+2023,University of Madras,university of madras,65.0,49.93,14.39,University of Madras,70.0,48.01,5.0,1.92,15.11,35.54
+2025,University of Madras,university of madras,68.0,52.89,21.76,University of Madras,65.0,49.93,-3.0,2.96,15.11,31.13
+2022,University of Petroleum and Energy Studies,university of petroleum and energy studies,97.0,44.65,31.99,University of Petroleum and Energy Studies,,,,,0.0,12.66
+2023,UPES,upes,79.0,48.34,34.47,UPES,,,,,7.5,13.87
+2025,UPES,upes,64.0,53.22,19.52,UPES,79.0,48.34,15.0,4.88,7.5,33.7
+2017,Vellore Institute of Technology,vellore institute of technology,22.0,51.36,32.95,Vellore Institute of Technology,,,,,4.3,18.41
+2018,Vellore Institute of Technology,vellore institute of technology,24.0,52.68,36.71,Vellore Institute of Technology,22.0,51.36,-2.0,1.32,4.3,15.97
+2019,Vellore Institute of Technology,vellore institute of technology,32.0,51.44,35.31,Vellore Institute of Technology,24.0,52.68,-8.0,-1.24,4.3,16.13
+2020,Vellore Institute of Technology,vellore institute of technology,21.0,55.39,38.8,Vellore Institute of Technology,32.0,51.44,11.0,3.95,4.3,16.59
+2021,Vellore Institute of Technology,vellore institute of technology,21.0,55.39,38.8,Vellore Institute of Technology,21.0,55.39,0.0,0.0,4.3,16.59
+2022,Vellore Institute of Technology,vellore institute of technology,18.0,60.14,45.74,Vellore Institute of Technology,21.0,55.39,3.0,4.75,4.3,14.4
+2023,Vellore Institute of Technology,vellore institute of technology,17.0,62.7,45.71,Vellore Institute of Technology,18.0,60.14,1.0,2.56,4.3,16.99
+2025,Vellore Institute of Technology,vellore institute of technology,21.0,62.88,41.16,Vellore Institute of Technology,17.0,62.7,-4.0,0.18,4.3,21.72
+2017,Visva Bharati,visva bharati,31.0,48.19,4.71,Visva Bharati,,,,,26.53,43.48
+2018,Visva Bharati,visva bharati,48.0,47.62,5.03,Visva Bharati,31.0,48.19,-17.0,-0.57,26.53,42.59
+2019,Visva Bharati,visva bharati,59.0,46.27,11.52,Visva Bharati,48.0,47.62,-11.0,-1.35,26.53,34.75
+2020,Visva Bharati,visva bharati,97.0,41.74,6.22,Visva Bharati,59.0,46.27,-38.0,-4.53,26.53,35.52
+2021,Visva Bharati,visva bharati,97.0,41.74,6.22,Visva Bharati,97.0,41.74,0.0,0.0,26.53,35.52
+2020,Visvesvaraya National Institute of Technology,visvesvaraya national institute of technology,54.0,46.98,15.39,Visvesvaraya National Institute of Technology,,,,,0.0,31.59
+2021,Visvesvaraya National Institute of Technology,visvesvaraya national institute of technology,54.0,46.98,15.39,Visvesvaraya National Institute of Technology,54.0,46.98,0.0,0.0,0.0,31.59
+2022,"Visvesvaraya National Institute of Technology, Nagpur",visvesvaraya national institute of technology nagpur,68.0,48.05,6.29,"Visvesvaraya National Institute of Technology, Nagpur",,,,,7.72,41.76
+2023,"Visvesvaraya National Institute of Technology, Nagpur",visvesvaraya national institute of technology nagpur,82.0,48.15,9.15,"Visvesvaraya National Institute of Technology, Nagpur",68.0,48.05,-14.0,0.1,7.72,39.0
+2025,"Visvesvaraya National Institute of Technology, Nagpur",visvesvaraya national institute of technology nagpur,86.0,50.14,12.59,"Visvesvaraya National Institute of Technology, Nagpur",82.0,48.15,-4.0,1.99,7.72,37.55
+2022,Visvesvaraya Technological University,visvesvaraya technological university,100.0,44.35,4.3,Visvesvaraya Technological University,,,,,4.0,40.05
+2023,Visvesvaraya Technological University,visvesvaraya technological university,92.0,46.48,3.53,Visvesvaraya Technological University,100.0,44.35,8.0,2.13,4.0,42.95
