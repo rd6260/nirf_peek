@@ -144,7 +144,7 @@ export function filterColleges(
       return false;
     }
     
-    if (filters.yearRange && stat.latestYear < filters.yearRange[0] || stat.latestYear > filters.yearRange[1]) {
+    if (filters.yearRange && (stat.latestYear < filters.yearRange[0] || stat.latestYear > filters.yearRange[1])) {
       return false;
     }
     
